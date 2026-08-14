@@ -23,12 +23,12 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,499 | 🐛 181 | 🌐 Haxe | 📅 2026-08-12 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,314 | 🐛 394 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,498 | 🐛 181 | 🌐 Haxe | 📅 2026-08-12 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,315 | 🐛 394 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,195 | 🐛 304 | 🌐 Haxe | 📅 2026-08-07 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,151 | 🐛 334 | 🌐 Haxe | 📅 2026-08-06 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,151 | 🐛 334 | 🌐 Haxe | 📅 2026-08-13 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 353 | 🐛 30 | 🌐 Haxe | 📅 2026-07-05 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 353 | 🐛 30 | 🌐 Haxe | 📅 2026-08-13 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 267 | 🐛 17 | 🌐 Haxe | 📅 2026-07-21 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
 * [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) ⚠️ Archived - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [hxdefold](https://github.com/hxdefold/hxdefold) ⭐ 233 | 🐛 9 | 🌐 Haxe | 📅 2025-11-17 - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
@@ -60,7 +60,7 @@ FSM == Finite State Machine
 MVC == Model View Controller
 ```
 
-* [awe6](https://github.com/hypersurge/awe6) ⭐ 81 | 🐛 1 | 🌐 Haxe | 📅 2024-10-30 - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
+* [awe6](https://github.com/hypersurge/awe6) ⭐ 80 | 🐛 1 | 🌐 Haxe | 📅 2024-10-30 - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
 * [ecx](https://github.com/eliasku/ecx) ⚠️ Archived - `ECS` - An Entity Component System framework.
 * [OSIS](https://github.com/Dvergar/OSIS) ⭐ 46 | 🐛 1 | 🌐 Haxe | 📅 2019-11-17 - `ECS` - Entity Component System architecture with networking support.
 * [hexMachina](https://github.com/DoclerLabs/hexCore) ⭐ 6 | 🐛 1 | 🌐 Haxe | 📅 2024-05-03 - `MVC` - A powerful multi-modular MVC framework.
@@ -236,7 +236,7 @@ More showcase :
 ### UI
 
 * [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) ⭐ 196 | 🐛 55 | 🌐 Haxe | 📅 2026-07-14 - GUI library for HaxeFlixel.
-* [domkit](https://github.com/ncannasse/domkit) ⭐ 93 | 🐛 12 | 🌐 Haxe | 📅 2026-06-02 - CSS Components based strictly typed UI framework.
+* [domkit](https://github.com/ncannasse/domkit) ⭐ 93 | 🐛 13 | 🌐 Haxe | 📅 2026-06-02 - CSS Components based strictly typed UI framework.
 * [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
 * [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
