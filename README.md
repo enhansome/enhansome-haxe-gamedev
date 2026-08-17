@@ -26,7 +26,7 @@ Those are Haxe 4 compatible game engines
 * [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,498 | 🐛 181 | 🌐 Haxe | 📅 2026-08-14 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,316 | 🐛 394 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,195 | 🐛 304 | 🌐 Haxe | 📅 2026-08-07 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,151 | 🐛 334 | 🌐 Haxe | 📅 2026-08-13 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,152 | 🐛 334 | 🌐 Haxe | 📅 2026-08-13 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 353 | 🐛 30 | 🌐 Haxe | 📅 2026-08-13 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 268 | 🐛 17 | 🌐 Haxe | 📅 2026-07-21 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
@@ -38,8 +38,8 @@ Those are Haxe 4 compatible game engines
 
 ## Low-level Engine
 
-* [Kha](https://github.com/Kode/Kha) ⭐ 1,631 | 🐛 145 | 🌐 C | 📅 2026-08-10 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Lime](https://github.com/openfl/lime) ⭐ 848 | 🐛 213 | 🌐 JavaScript | 📅 2026-07-20 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
+* [Kha](https://github.com/Kode/Kha) ⭐ 1,632 | 🐛 145 | 🌐 C | 📅 2026-08-10 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Lime](https://github.com/openfl/lime) ⭐ 848 | 🐛 215 | 🌐 JavaScript | 📅 2026-07-20 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
 * [NME](https://github.com/haxenme/nme) ⭐ 497 | 🐛 44 | 🌐 C | 📅 2026-08-08 - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
 * [linc\_glfw](https://github.com/Sunjammer/linc_glfw) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2019-09-16 - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
 * [3DSHaxe](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
@@ -113,7 +113,7 @@ MVC == Model View Controller
 
 More showcase :
 
-* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,631 | 🐛 145 | 🌐 C | 📅 2026-08-10
+* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,632 | 🐛 145 | 🌐 C | 📅 2026-08-10
 * [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) ⭐ 752 | 🐛 119 | 🌐 Haxe | 📅 2021-04-16
 * [OpenFL showcase](https://www.openfl.org/showcase)
 * [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
@@ -125,7 +125,7 @@ More showcase :
 ### 3rd party API
 
 * [SteamWrap](https://github.com/larsiusprime/SteamWrap) ⭐ 113 | 🐛 16 | 🌐 Haxe | 📅 2023-09-20 - Native extension for the SteamAPI.
-* [hxgamejolt-api](https://github.com/MAJigsaw77/hxgamejolt-api) ⭐ 23 | 🐛 0 | 🌐 Haxe | 📅 2026-06-26 - Haxe bindings for GameJolt API.
+* [hxgamejolt-api](https://github.com/MAJigsaw77/hxgamejolt-api) ⭐ 24 | 🐛 0 | 🌐 Haxe | 📅 2026-06-26 - Haxe bindings for GameJolt API.
 * [newgrounds](https://lib.haxe.org/p/newgrounds) - Newgrounds API.
 
 ### AI
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 48 | 🌐 Haxe | 📅 2026-08-12 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 47 | 🌐 Haxe | 📅 2026-08-16 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -207,7 +207,7 @@ More showcase :
 
 ### Pathfinding
 
-* [pathfinder](https://github.com/hypersurge/pathfinder) ⭐ 28 | 🐛 0 | 🌐 Haxe | 📅 2016-08-15 - Easy A\* pathfinding algorithm.
+* [pathfinder](https://github.com/hypersurge/pathfinder) ⭐ 29 | 🐛 0 | 🌐 Haxe | 📅 2016-08-15 - Easy A\* pathfinding algorithm.
 * [astar](https://gitlab.com/haath/astar) - Versatile framework-agnostic A-star solver Library.
 
 ### Procedural generation
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

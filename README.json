@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T22:10:05Z",
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2151
+            "stars": 2152
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-10T20:25:20Z",
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1631
+            "stars": 1632
           }
         },
         {
@@ -509,7 +509,7 @@
             "last_commit": "2026-06-26T23:01:24Z",
             "owner": "MAJigsaw77",
             "repo": "hxgamejolt-api",
-            "stars": 23
+            "stars": 24
           }
         }
       ],
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:51:43.605Z",
+    "last_updated": "2026-08-17T05:00:12.181Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
     "enhanced_repository": "enhansome/enhansome-haxe-gamedev",
