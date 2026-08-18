@@ -28,7 +28,7 @@
             "last_commit": "2026-07-16T06:31:41Z",
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3316
+            "stars": 3315
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-07T15:39:43Z",
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2195
+            "stars": 2194
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T22:10:05Z",
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2152
+            "stars": 2151
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-10T20:25:20Z",
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1632
+            "stars": 1631
           }
         },
         {
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-20T17:03:02Z",
+            "last_commit": "2026-08-17T17:18:54Z",
             "owner": "openfl",
             "repo": "lime",
-            "stars": 848
+            "stars": 847
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-08T14:30:27Z",
             "owner": "haxenme",
             "repo": "nme",
-            "stars": 497
+            "stars": 496
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2023-12-31T00:14:20Z",
             "owner": "shohei909",
             "repo": "tweenx",
-            "stars": 95
+            "stars": 94
           }
         },
         {
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:00:12.181Z",
+    "last_updated": "2026-08-18T04:54:43.302Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
     "enhanced_repository": "enhansome/enhansome-haxe-gamedev",
