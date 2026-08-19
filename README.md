@@ -23,7 +23,7 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,497 | 🐛 182 | 🌐 Haxe | 📅 2026-08-18 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,497 | 🐛 182 | 🌐 Haxe | 📅 2026-08-19 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,315 | 🐛 395 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,195 | 🐛 304 | 🌐 Haxe | 📅 2026-08-07 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,151 | 🐛 334 | 🌐 Haxe | 📅 2026-08-13 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
@@ -161,7 +161,7 @@ More showcase :
 
 ### Data structures
 
-* [polygonal-ds](https://github.com/polygonal/ds) ⭐ 348 | 🐛 17 | 🌐 Haxe | 📅 2023-01-22 - Data structures for games.
+* [polygonal-ds](https://github.com/polygonal/ds) ⭐ 349 | 🐛 17 | 🌐 Haxe | 📅 2023-01-22 - Data structures for games.
 
 ### Dialogues
 
