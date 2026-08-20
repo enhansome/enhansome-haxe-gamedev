@@ -24,9 +24,9 @@ Feel free to update it.
 Those are Haxe 4 compatible game engines
 
 * [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,497 | 🐛 182 | 🌐 Haxe | 📅 2026-08-19 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,315 | 🐛 395 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,195 | 🐛 304 | 🌐 Haxe | 📅 2026-08-07 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,151 | 🐛 334 | 🌐 Haxe | 📅 2026-08-13 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,316 | 🐛 395 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,196 | 🐛 304 | 🌐 Haxe | 📅 2026-08-07 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,151 | 🐛 334 | 🌐 Haxe | 📅 2026-08-19 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 353 | 🐛 30 | 🌐 Haxe | 📅 2026-08-18 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 268 | 🐛 17 | 🌐 Haxe | 📅 2026-07-21 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
@@ -114,7 +114,7 @@ MVC == Model View Controller
 More showcase :
 
 * [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,631 | 🐛 145 | 🌐 C | 📅 2026-08-10
-* [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) ⭐ 752 | 🐛 119 | 🌐 Haxe | 📅 2021-04-16
+* [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) ⭐ 753 | 🐛 119 | 🌐 Haxe | 📅 2021-04-16
 * [OpenFL showcase](https://www.openfl.org/showcase)
 * [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
 * [itch.io showcase](https://itch.io/games/made-with-haxe)
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 47 | 🌐 Haxe | 📅 2026-08-19 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 47 | 🌐 Haxe | 📅 2026-08-20 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
