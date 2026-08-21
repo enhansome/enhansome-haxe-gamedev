@@ -12,7 +12,7 @@
             "archived": false,
             "id": 5947834,
             "language": "Haxe",
-            "last_commit": "2026-08-19T13:12:23Z",
+            "last_commit": "2026-08-20T12:37:52Z",
             "owner": "HeapsIO",
             "repo": "heaps",
             "stars": 3497
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 2101031,
             "language": "Haxe",
-            "last_commit": "2026-08-07T15:39:43Z",
+            "last_commit": "2026-08-21T03:48:12Z",
             "owner": "HaxeFlixel",
             "repo": "flixel",
             "stars": 2196
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 8869463,
             "language": "Haxe",
-            "last_commit": "2026-08-19T21:56:53Z",
+            "last_commit": "2026-08-20T21:25:13Z",
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2151
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 10876724,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T17:18:54Z",
+            "last_commit": "2026-08-20T20:43:51Z",
             "owner": "openfl",
             "repo": "lime",
             "stars": 847
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 140221881,
             "language": "Haxe",
-            "last_commit": "2026-07-24T16:01:47Z",
+            "last_commit": "2026-08-20T12:07:49Z",
             "owner": "colyseus",
             "repo": "colyseus-haxe",
             "stars": 90
@@ -896,7 +896,7 @@
                 "last_commit": "2026-07-14T02:26:46Z",
                 "owner": "HaxeFlixel",
                 "repo": "flixel-ui",
-                "stars": 196
+                "stars": 198
               }
             },
             {
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:55:36.388Z",
+    "last_updated": "2026-08-21T04:56:22.425Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_id": 168940213,
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
