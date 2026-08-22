@@ -12,10 +12,10 @@
             "archived": false,
             "id": 5947834,
             "language": "Haxe",
-            "last_commit": "2026-08-20T12:37:52Z",
+            "last_commit": "2026-08-21T13:28:07Z",
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3497
+            "stars": 3499
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T03:48:12Z",
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2196
+            "stars": 2197
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 8869463,
             "language": "Haxe",
-            "last_commit": "2026-08-20T21:25:13Z",
+            "last_commit": "2026-08-21T22:03:20Z",
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2151
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-18T22:20:36Z",
             "owner": "ceramic-engine",
             "repo": "ceramic",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-10-12T10:36:01Z",
             "owner": "HxGodot",
             "repo": "hxgodot",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 10876724,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T20:43:51Z",
+            "last_commit": "2026-08-21T22:31:56Z",
             "owner": "openfl",
             "repo": "lime",
             "stars": 847
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:56:22.425Z",
+    "last_updated": "2026-08-22T04:52:04.018Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_id": 168940213,
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
