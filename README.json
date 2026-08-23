@@ -30,7 +30,7 @@
             "last_commit": "2026-07-16T06:31:41Z",
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3316
+            "stars": 3317
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T22:03:20Z",
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2151
+            "stars": 2152
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 84566136,
             "language": "Haxe",
-            "last_commit": "2026-08-18T22:20:36Z",
+            "last_commit": "2026-08-22T21:26:12Z",
             "owner": "ceramic-engine",
             "repo": "ceramic",
             "stars": 354
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:52:04.018Z",
+    "last_updated": "2026-08-23T04:54:03.902Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_id": 168940213,
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
