@@ -12,7 +12,7 @@
             "archived": false,
             "id": 5947834,
             "language": "Haxe",
-            "last_commit": "2026-08-21T13:28:07Z",
+            "last_commit": "2026-08-24T10:28:18Z",
             "owner": "HeapsIO",
             "repo": "heaps",
             "stars": 3499
@@ -693,6 +693,204 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sfxr-hx",
+              "description": "Pure haxe implementation of Sfxr.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629629357,
+                "language": "Haxe",
+                "last_commit": "2023-05-12T15:38:00Z",
+                "owner": "jobf",
+                "repo": "sfxr-hx",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nxColor",
+              "description": "Color manipulation library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20329747,
+                "language": "Haxe",
+                "last_commit": "2017-05-24T09:57:23Z",
+                "owner": "oscarcs",
+                "repo": "nxColor",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Color manipulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "differ",
+              "description": "A separation axis theorem collision library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6333796,
+                "language": "Haxe",
+                "last_commit": "2020-05-08T02:24:44Z",
+                "owner": "snowkit",
+                "repo": "differ",
+                "stars": 165
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Collision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vision",
+              "description": "Cross platform computer vision library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515292306,
+                "language": "Haxe",
+                "last_commit": "2026-06-06T14:36:34Z",
+                "owner": "ShaharMS",
+                "repo": "Vision",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer Vision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "polygonal-ds",
+              "description": "Data structures for games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4685589,
+                "language": "Haxe",
+                "last_commit": "2023-01-22T19:36:46Z",
+                "owner": "polygonal",
+                "repo": "ds",
+                "stars": 349
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data structures"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hxyarn",
+              "description": "Parser and runner for Yarn dialogue files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338209545,
+                "language": "Haxe",
+                "last_commit": "2026-07-06T23:01:52Z",
+                "owner": "cxsquared",
+                "repo": "hxyarn",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dialogues"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flixel-studio",
+              "description": "In-game editor for HaxeFlixel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142412724,
+                "language": "Haxe",
+                "last_commit": "2023-01-02T11:25:55Z",
+                "owner": "Dovyski",
+                "repo": "flixel-studio",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deepnightLibs",
+              "description": "General gamedev purpose libs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208818495,
+                "language": "Haxe",
+                "last_commit": "2026-08-11T23:35:45Z",
+                "owner": "deepnight",
+                "repo": "deepnightLibs",
+                "stars": 272
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Helpers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "firetongue",
+              "description": "A translation/localization framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11746074,
+                "language": "Haxe",
+                "last_commit": "2024-01-11T20:58:15Z",
+                "owner": "larsiusprime",
+                "repo": "firetongue",
+                "stars": 149
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Localization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "LEd",
               "description": "2D level editor with a typed compile time loader.",
               "children": [],
@@ -797,6 +995,116 @@
           "children": [
             {
               "node_type": "item",
+              "title": "polymod",
+              "description": "An atomic modding framework for games/apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145896674,
+                "language": "Haxe",
+                "last_commit": "2026-08-23T16:34:52Z",
+                "owner": "FunkinCrew",
+                "repo": "polymod",
+                "stars": 210
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Modding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sparkler",
+              "description": "Modular Particle System.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112707364,
+                "language": "Haxe",
+                "last_commit": "2025-04-27T18:43:50Z",
+                "owner": "AndreiRudenko",
+                "repo": "sparkler",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Particles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "extension-iap",
+              "description": "Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of this.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91098590,
+                "language": "Haxe",
+                "last_commit": "2025-07-28T05:04:37Z",
+                "owner": "charmdev",
+                "repo": "extension-iap",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monetization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pathfinder",
+              "description": "Easy A* pathfinding algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38653091,
+                "language": "Haxe",
+                "last_commit": "2016-08-15T17:26:00Z",
+                "owner": "hypersurge",
+                "repo": "pathfinder",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pathfinding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dungeon builder",
+              "description": "A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17575913,
+                "language": "Haxe",
+                "last_commit": "2014-04-10T12:51:24Z",
+                "owner": "julsam",
+                "repo": "dungeon-builder",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Procedural generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "HGSL",
               "description": "Haxe to GL Shading Language.",
               "children": [],
@@ -829,6 +1137,50 @@
           "description": null,
           "node_type": "group",
           "title": "Shaders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "haxe-aseprite",
+              "description": "Parser for .ase and .aseprite files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156927644,
+                "language": "Haxe",
+                "last_commit": "2019-10-07T05:55:22Z",
+                "owner": "PongoEngine",
+                "repo": "haxe-aseprite",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sprite"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hxpk",
+              "description": "Port of the libGDX Texture Packer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21114188,
+                "language": "Haxe",
+                "last_commit": "2019-01-30T07:48:03Z",
+                "owner": "bendmorris",
+                "repo": "hxpk",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Texture Packer"
         },
         {
           "children": [
@@ -918,6 +1270,28 @@
           "description": null,
           "node_type": "group",
           "title": "UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hxCodec",
+              "description": "Adds native video playback on HaxeFlixel and OpenFL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394515093,
+                "language": "C",
+                "last_commit": "2024-05-11T09:14:55Z",
+                "owner": "polybiusproxy",
+                "repo": "hxCodec",
+                "stars": 113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video"
         }
       ],
       "title": "Miscellaneous"
@@ -975,7 +1349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:04:21.453Z",
+    "last_updated": "2026-08-24T14:26:41.181Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_id": 168940213,
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
