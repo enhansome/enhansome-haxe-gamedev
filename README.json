@@ -42,7 +42,7 @@
             "archived": false,
             "id": 2101031,
             "language": "Haxe",
-            "last_commit": "2026-08-21T03:48:12Z",
+            "last_commit": "2026-08-23T21:22:28Z",
             "owner": "HaxeFlixel",
             "repo": "flixel",
             "stars": 2197
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T22:03:20Z",
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2152
+            "stars": 2153
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-22T21:26:12Z",
             "owner": "ceramic-engine",
             "repo": "ceramic",
-            "stars": 354
+            "stars": 353
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-07-27T16:36:28Z",
             "owner": "openfl",
             "repo": "away3d",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2021-04-16T12:52:13Z",
             "owner": "aduros",
             "repo": "flambe",
-            "stars": 753
+            "stars": 752
           }
         }
       ],
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:54:03.902Z",
+    "last_updated": "2026-08-24T05:04:21.453Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_id": 168940213,
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
