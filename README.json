@@ -30,7 +30,7 @@
             "last_commit": "2026-07-16T06:31:41Z",
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3317
+            "stars": 3318
           }
         },
         {
@@ -1349,7 +1349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:56:26.065Z",
+    "last_updated": "2026-08-25T06:16:55.895Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_id": 168940213,
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
