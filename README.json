@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T10:28:18Z",
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3499
+            "stars": 3500
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 8869463,
             "language": "Haxe",
-            "last_commit": "2026-08-21T22:03:20Z",
+            "last_commit": "2026-08-24T18:46:08Z",
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2153
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 140221881,
             "language": "Haxe",
-            "last_commit": "2026-08-20T12:07:49Z",
+            "last_commit": "2026-08-25T01:55:21Z",
             "owner": "colyseus",
             "repo": "colyseus-haxe",
             "stars": 90
@@ -465,7 +465,7 @@
             "last_commit": "2026-07-06T18:11:55Z",
             "owner": "HeapsIO",
             "repo": "hxbit",
-            "stars": 165
+            "stars": 166
           }
         },
         {
@@ -1002,7 +1002,7 @@
                 "archived": false,
                 "id": 145896674,
                 "language": "Haxe",
-                "last_commit": "2026-08-23T16:34:52Z",
+                "last_commit": "2026-08-24T21:55:36Z",
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 210
@@ -1263,7 +1263,7 @@
                 "last_commit": "2026-06-02T16:06:02Z",
                 "owner": "HeapsIO",
                 "repo": "domkit",
-                "stars": 93
+                "stars": 94
               }
             }
           ],
@@ -1349,7 +1349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:41.181Z",
+    "last_updated": "2026-08-25T04:56:26.065Z",
     "original_repository": "Dvergar/awesome-haxe-gamedev",
     "original_repository_id": 168940213,
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
