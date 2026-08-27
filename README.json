@@ -12,7 +12,7 @@
             "archived": false,
             "id": 5947834,
             "language": "Haxe",
-            "last_commit": "2026-08-25T13:08:44Z",
+            "last_commit": "2026-08-27T06:06:01Z",
             "owner": "HeapsIO",
             "repo": "heaps",
             "stars": 3499
@@ -462,7 +462,7 @@
             "archived": false,
             "id": 76732241,
             "language": "Haxe",
-            "last_commit": "2026-07-06T18:11:55Z",
+            "last_commit": "2026-08-26T15:23:52Z",
             "owner": "HeapsIO",
             "repo": "hxbit",
             "stars": 166
@@ -1002,7 +1002,7 @@
                 "archived": false,
                 "id": 145896674,
                 "language": "Haxe",
-                "last_commit": "2026-08-24T21:55:36Z",
+                "last_commit": "2026-08-26T21:34:06Z",
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 210
@@ -1349,9 +1349,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:57:41.375Z",
-    "original_repository": "Dvergar/awesome-haxe-gamedev",
-    "original_repository_id": 168940213,
+    "last_updated": "2026-08-27T11:43:32.750Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 168940213,
+      "language": "Haxe",
+      "last_commit": "2023-11-17T21:20:29Z",
+      "owner": "Dvergar",
+      "repo": "awesome-haxe-gamedev",
+      "stars": 421
+    },
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
     "enhanced_repository": "enhansome/enhansome-haxe-gamedev",
     "enhanced_repository_description": null,
