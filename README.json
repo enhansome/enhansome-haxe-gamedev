@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T14:55:24Z",
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3499
-          }
+            "stars": 3498
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-16T06:31:41Z",
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3318
-          }
+            "stars": 3317
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "HaxeFlixel",
             "repo": "flixel",
             "stars": 2196
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2152
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "proletariatgames",
             "repo": "unreal.hx",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "ceramic-engine",
             "repo": "ceramic",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "openfl",
             "repo": "starling",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "HxGodot",
             "repo": "hxgodot",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "hxdefold",
             "repo": "hxdefold",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "openfl",
             "repo": "away3d",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Stencyl",
             "repo": "stencyl-engine",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "haxegon",
             "repo": "haxegon",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Game engines"
@@ -201,8 +213,9 @@
             "last_commit": "2026-08-10T20:25:20Z",
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1630
-          }
+            "stars": 1631
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 10876724,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T19:58:10Z",
+            "last_commit": "2026-08-28T16:20:04Z",
             "owner": "openfl",
             "repo": "lime",
-            "stars": 846
-          }
+            "stars": 847
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "haxenme",
             "repo": "nme",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "Sunjammer",
             "repo": "linc_glfw",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Low-level Engine"
@@ -268,7 +284,8 @@
             "owner": "AustinEast",
             "repo": "echo",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "armory3d",
             "repo": "haxebullet",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "HaxeFlixel",
             "repo": "nape-haxe4",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Physics"
@@ -319,7 +338,8 @@
             "owner": "hypersurge",
             "repo": "awe6",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "eliasku",
             "repo": "ecx",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "Dvergar",
             "repo": "OSIS",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "DoclerLabs",
             "repo": "hexCore",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Architecture"
@@ -385,7 +408,8 @@
             "owner": "ianharrigan",
             "repo": "hxWebSockets",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "colyseus",
             "repo": "colyseus-haxe",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "Dvergar",
             "repo": "Anette",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "ixiagames",
             "repo": "haxe-simple-peer",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Networking"
@@ -451,7 +478,8 @@
             "owner": "ncannasse",
             "repo": "castle",
             "stars": 607
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "HeapsIO",
             "repo": "hxbit",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "RealyUniqueName",
             "repo": "Bits",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "Dvergar",
             "repo": "PODStream",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Serialization and storage"
@@ -516,8 +547,9 @@
             "last_commit": "2026-08-10T20:25:20Z",
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1630
-          }
+            "stars": 1631
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "aduros",
             "repo": "flambe",
             "stars": 752
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Games"
@@ -555,7 +588,8 @@
                 "owner": "larsiusprime",
                 "repo": "SteamWrap",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -570,7 +604,8 @@
                 "owner": "MAJigsaw77",
                 "repo": "hxgamejolt-api",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -592,7 +627,8 @@
                 "owner": "jeremyfa",
                 "repo": "spine-hx",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -607,7 +643,8 @@
                 "owner": "AustinEast",
                 "repo": "heaps-aseprite",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -622,7 +659,8 @@
                 "owner": "MAJigsaw77",
                 "repo": "flxgif",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -637,7 +675,8 @@
                 "owner": "miriti",
                 "repo": "ase",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -652,7 +691,8 @@
                 "owner": "Beeblerox",
                 "repo": "Heaps-Spine",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -667,7 +707,8 @@
                 "owner": "miriti",
                 "repo": "openfl-aseprite",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -682,7 +723,8 @@
                 "owner": "rainyt",
                 "repo": "openfl-spine",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -704,7 +746,8 @@
                 "owner": "jobf",
                 "repo": "sfxr-hx",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -726,7 +769,8 @@
                 "owner": "oscarcs",
                 "repo": "nxColor",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -747,8 +791,9 @@
                 "last_commit": "2020-05-08T02:24:44Z",
                 "owner": "snowkit",
                 "repo": "differ",
-                "stars": 165
-              }
+                "stars": 166
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -770,7 +815,8 @@
                 "owner": "ShaharMS",
                 "repo": "Vision",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -792,7 +838,8 @@
                 "owner": "polygonal",
                 "repo": "ds",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -814,7 +861,8 @@
                 "owner": "cxsquared",
                 "repo": "hxyarn",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -836,7 +884,8 @@
                 "owner": "Dovyski",
                 "repo": "flixel-studio",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -858,7 +907,8 @@
                 "owner": "deepnight",
                 "repo": "deepnightLibs",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -880,7 +930,8 @@
                 "owner": "larsiusprime",
                 "repo": "firetongue",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -902,7 +953,8 @@
                 "owner": "deepnight",
                 "repo": "ldtk-haxe-api",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -917,7 +969,8 @@
                 "owner": "Dvergar",
                 "repo": "PyxelEdit-Map-Importer",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -932,7 +985,8 @@
                 "owner": "Yanrishatum",
                 "repo": "tiledhx",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -954,7 +1008,8 @@
                 "owner": "tbrosman",
                 "repo": "hxmath",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -969,7 +1024,8 @@
                 "owner": "hamaluik",
                 "repo": "haxe-glm",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -984,7 +1040,8 @@
                 "owner": "markknol",
                 "repo": "hx-vector2d",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1002,11 +1059,12 @@
                 "archived": false,
                 "id": 145896674,
                 "language": "Haxe",
-                "last_commit": "2026-08-26T21:34:06Z",
+                "last_commit": "2026-08-28T05:08:50Z",
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1028,7 +1086,8 @@
                 "owner": "AndreiRudenko",
                 "repo": "sparkler",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1050,7 +1109,8 @@
                 "owner": "charmdev",
                 "repo": "extension-iap",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1072,7 +1132,8 @@
                 "owner": "hypersurge",
                 "repo": "pathfinder",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1094,7 +1155,8 @@
                 "owner": "julsam",
                 "repo": "dungeon-builder",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1116,7 +1178,8 @@
                 "owner": "saharan",
                 "repo": "HGSL",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1194,8 @@
                 "owner": "47rooks",
                 "repo": "parasol",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1153,7 +1217,8 @@
                 "owner": "PongoEngine",
                 "repo": "haxe-aseprite",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1175,7 +1240,8 @@
                 "owner": "bendmorris",
                 "repo": "hxpk",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1197,7 +1263,8 @@
                 "owner": "openfl",
                 "repo": "actuate",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -1212,7 +1279,8 @@
                 "owner": "shohei909",
                 "repo": "tweenx",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -1227,7 +1295,8 @@
                 "owner": "Yanrishatum",
                 "repo": "yatl",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1249,7 +1318,8 @@
                 "owner": "HaxeFlixel",
                 "repo": "flixel-ui",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             },
             {
               "node_type": "item",
@@ -1264,7 +1334,8 @@
                 "owner": "HeapsIO",
                 "repo": "domkit",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1286,7 +1357,8 @@
                 "owner": "polybiusproxy",
                 "repo": "hxCodec",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T16:41:16.981Z"
             }
           ],
           "description": null,
@@ -1312,7 +1384,8 @@
             "owner": "anissen",
             "repo": "awesome-snowkit",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1400,8 @@
             "owner": "nadako",
             "repo": "awesome-haxe",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         },
         {
           "node_type": "item",
@@ -1342,14 +1416,15 @@
             "owner": "MatthijsKamstra",
             "repo": "awesome-haxe-js",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
         }
       ],
       "title": "Other haxe lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:17:22.203Z",
+    "last_updated": "2026-08-28T16:41:16.981Z",
     "original_repository_info": {
       "archived": false,
       "id": 168940213,
