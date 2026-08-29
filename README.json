@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heaps : Haxe Game Framework",
+            "homepage": "http://heaps.io",
             "id": 5947834,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:55:24Z",
+            "open_issues": 183,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3498
+            "stars": 3498,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D Engine with Blender Integration",
+            "homepage": "https://armory3d.org/engine",
             "id": 45202654,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2026-07-16T06:31:41Z",
+            "open_issues": 396,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3317
+            "stars": 3318,
+            "topics": [
+              "3d",
+              "blender",
+              "game-engine",
+              "haxe",
+              "rendering"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -42,12 +58,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, cross-platform 2D game engine powered by Haxe and OpenFL",
+            "homepage": "https://haxeflixel.com/",
             "id": 2101031,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2026-08-23T21:22:28Z",
+            "open_issues": 303,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2196
+            "stars": 2196,
+            "topics": [
+              "2d-game-engine",
+              "cross-platform",
+              "flixel",
+              "game-engine",
+              "haxe",
+              "haxeflixel",
+              "haxelib",
+              "openfl"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -58,12 +88,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.",
+            "homepage": "https://www.openfl.org",
             "id": 8869463,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:46:08Z",
+            "open_issues": 338,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2152
+            "stars": 2152,
+            "topics": [
+              "adobe-air",
+              "adobe-flash",
+              "cross-platform",
+              "flash",
+              "front-end",
+              "frontend",
+              "game-development",
+              "gamedev",
+              "hashlink",
+              "haxe",
+              "lime",
+              "multi-platform",
+              "neko",
+              "openfl"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -74,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unreal.hx: Haxe Integration for Unreal",
+            "homepage": null,
             "id": 41170571,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2023-01-10T16:21:18Z",
+            "open_issues": 46,
             "owner": "proletariatgames",
             "repo": "unreal.hx",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -90,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform 2D framework written in Haxe that can export natively to desktop (windows, mac, linux), mobile (ios, android), web (js + webgl) and to unity projects",
+            "homepage": null,
             "id": 84566136,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2026-08-25T21:59:38Z",
+            "open_issues": 30,
             "owner": "ceramic-engine",
             "repo": "ceramic",
-            "stars": 353
+            "stars": 353,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -106,12 +166,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Known as the \"Cross-Platform Game Engine\", Starling is a popular Stage3D framework for OpenFL and Haxe",
+            "homepage": "https://books.openfl.org/starling-manual/",
             "id": 23665851,
             "language": "Haxe",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-21T20:42:22Z",
+            "open_issues": 17,
             "owner": "openfl",
             "repo": "starling",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "gpu",
+              "haxe",
+              "openfl",
+              "starling",
+              "starling-framework"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -122,12 +193,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Haxe GDExtension for Godot 4",
+            "homepage": null,
             "id": 517048477,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2024-10-12T10:36:01Z",
+            "open_issues": 10,
             "owner": "HxGodot",
             "repo": "hxgodot",
-            "stars": 235
+            "stars": 235,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -138,12 +214,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haxe/Lua externs for Defold game engine",
+            "homepage": null,
             "id": 60483806,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2025-11-17T13:31:03Z",
+            "open_issues": 9,
             "owner": "hxdefold",
             "repo": "hxdefold",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "defold-game-engine",
+              "haxe",
+              "lua",
+              "lua-externs"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -154,12 +240,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source, real-time 3D engine for OpenFL",
+            "homepage": null,
             "id": 73755446,
             "language": "Haxe",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T16:36:28Z",
+            "open_issues": 28,
             "owner": "openfl",
             "repo": "away3d",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "3d-engine",
+              "away3d",
+              "haxe",
+              "openfl"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -170,12 +266,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Flash, HTML5, iOS, Android, and desktop games with no code with Stencyl. This is the source to Stencyl's Haxe-based engine.",
+            "homepage": "http://www.stencyl.com",
             "id": 9865622,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2026-08-04T06:32:02Z",
+            "open_issues": 6,
             "owner": "Stencyl",
             "repo": "stencyl-engine",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "game-engine",
+              "haxe",
+              "stencyl"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -186,12 +291,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A haxe programming library for beginners. Powered by OpenFL and Starling.",
+            "homepage": "http://www.haxegon.com",
             "id": 36315594,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2022-10-12T18:49:02Z",
+            "open_issues": 78,
             "owner": "haxegon",
             "repo": "haxegon",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "framework",
+              "game",
+              "haxe",
+              "html5",
+              "linux",
+              "mac",
+              "openfl",
+              "starling",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -208,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-portable, high performance, open source multimedia framework.",
+            "homepage": "http://kha.tech",
             "id": 13816197,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2026-08-10T20:25:20Z",
+            "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1631
+            "stars": 1631,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -224,12 +349,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A foundational Haxe framework for cross-platform development",
+            "homepage": "https://lime.openfl.org/",
             "id": 10876724,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:20:04Z",
+            "open_issues": 213,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "cross-platform",
+              "frontend",
+              "game-development",
+              "gamedev",
+              "hashlink",
+              "haxe",
+              "lime",
+              "multi-platform",
+              "neko",
+              "openfl"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -240,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform native backend for Haxe projects",
+            "homepage": null,
             "id": 5051566,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-08T14:30:27Z",
+            "open_issues": 44,
             "owner": "haxenme",
             "repo": "nme",
-            "stars": 496
+            "stars": 496,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -256,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GLFW bindings for Haxe",
+            "homepage": null,
             "id": 127900669,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2019-09-16T07:41:10Z",
+            "open_issues": 0,
             "owner": "Sunjammer",
             "repo": "linc_glfw",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -278,12 +429,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Physics Library written in Haxe",
+            "homepage": "https://austineast.dev/echo",
             "id": 163479903,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2026-05-12T21:50:57Z",
+            "open_issues": 8,
             "owner": "AustinEast",
             "repo": "echo",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "2d-physics-engine",
+              "gamedev",
+              "haxe",
+              "haxelib",
+              "physics"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -294,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bullet 3D Physics for Haxe",
+            "homepage": "https://github.com/armory3d/armory",
             "id": 30605921,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2023-07-26T18:03:27Z",
+            "open_issues": 0,
             "owner": "armory3d",
             "repo": "haxebullet",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -310,12 +477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haxe Physics Engine (Haxe 4 compatible fork)",
+            "homepage": "https://joecreates.github.io/napephys/",
             "id": 184481505,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2020-06-30T20:42:16Z",
+            "open_issues": 0,
             "owner": "HaxeFlixel",
             "repo": "nape-haxe4",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -332,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "awe6, the inverted game framework (Haxe)",
+            "homepage": "http://awe6.org",
             "id": 36402708,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2024-10-30T20:51:33Z",
+            "open_issues": 1,
             "owner": "hypersurge",
             "repo": "awe6",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -348,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ECX is Entity Component System framework for Haxe",
+            "homepage": null,
             "id": 62444536,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2019-09-06T19:12:46Z",
+            "open_issues": 11,
             "owner": "eliasku",
             "repo": "ecx",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -364,12 +546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entity Component System with network support (for haxe)",
+            "homepage": null,
             "id": 24866465,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2019-11-17T21:26:43Z",
+            "open_issues": 1,
             "owner": "Dvergar",
             "repo": "OSIS",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "architecture",
+              "entity-component-system",
+              "game-development",
+              "multiplayer",
+              "networking"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -380,12 +573,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular MVC framework written in Haxe",
+            "homepage": "http://hexmachina.org",
             "id": 44602108,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2024-05-03T09:52:53Z",
+            "open_issues": 1,
             "owner": "DoclerLabs",
             "repo": "hexCore",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "core",
+              "haxe",
+              "hexmachina"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -402,12 +604,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hxWebSockets - websockets for all haxe platforms",
+            "homepage": "https://github.com/ianharrigan/hxWebSockets",
             "id": 160685972,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2025-05-11T16:29:51Z",
+            "open_issues": 14,
             "owner": "ianharrigan",
             "repo": "hxWebSockets",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "haxe",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -418,12 +628,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚔ Colyseus Multiplayer SDK for Haxe",
+            "homepage": "https://docs.colyseus.io/getting-started/haxe-client/",
             "id": 140221881,
             "language": "Haxe",
-            "last_commit": "2026-08-25T19:01:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:51:59Z",
+            "open_issues": 2,
             "owner": "colyseus",
             "repo": "colyseus-haxe",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "colyseus",
+              "haxe",
+              "haxelib",
+              "multiplayer",
+              "netcode",
+              "networking"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -434,12 +656,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple haxe network library",
+            "homepage": null,
             "id": 17780190,
             "language": "Haxe",
+            "license": "WTFPL",
             "last_commit": "2019-11-18T16:14:35Z",
+            "open_issues": 3,
             "owner": "Dvergar",
             "repo": "Anette",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "gamedev",
+              "networking",
+              "protocol",
+              "tcp"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -450,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haxe externs for simple-peer.",
+            "homepage": null,
             "id": 164592134,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2019-01-31T14:35:16Z",
+            "open_issues": 0,
             "owner": "ixiagames",
             "repo": "haxe-simple-peer",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -472,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A structured database with a local web service to edit it",
+            "homepage": null,
             "id": 5912693,
             "language": "Haxe",
+            "license": "ISC",
             "last_commit": "2026-08-27T14:38:06Z",
+            "open_issues": 58,
             "owner": "ncannasse",
             "repo": "castle",
-            "stars": 607
+            "stars": 607,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -488,12 +730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haxe Binary serialization and network synchronization library",
+            "homepage": null,
             "id": 76732241,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2026-08-26T15:23:52Z",
+            "open_issues": 11,
             "owner": "HeapsIO",
             "repo": "hxbit",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -504,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary bit flags with unlimited amount of bits",
+            "homepage": null,
             "id": 172359976,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2019-02-28T14:37:32Z",
+            "open_issues": 0,
             "owner": "RealyUniqueName",
             "repo": "Bits",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -520,12 +772,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haxe POD serializer",
+            "homepage": null,
             "id": 27332725,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2019-11-01T13:24:06Z",
+            "open_issues": 0,
             "owner": "Dvergar",
             "repo": "PODStream",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "haxe",
+              "pod",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -542,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-portable, high performance, open source multimedia framework.",
+            "homepage": "http://kha.tech",
             "id": 13816197,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2026-08-10T20:25:20Z",
+            "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1631
+            "stars": 1631,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -558,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rapidly cook up games for HTML5, Flash, Android, and iOS.",
+            "homepage": "https://github.com/aduros/flambe/wiki",
             "id": 1519690,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2021-04-16T12:52:13Z",
+            "open_issues": 119,
             "owner": "aduros",
             "repo": "flambe",
-            "stars": 752
+            "stars": 752,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -582,12 +853,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haxe native extension for the Steam API",
+                "homepage": null,
                 "id": 51186322,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2023-09-20T00:46:31Z",
+                "open_issues": 16,
                 "owner": "larsiusprime",
                 "repo": "SteamWrap",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -598,12 +874,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haxe bindings for GameJolt API.",
+                "homepage": "https://lib.haxe.org/p/hxgamejolt-api",
                 "id": 529874567,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-06-26T23:01:24Z",
+                "open_issues": 0,
                 "owner": "MAJigsaw77",
                 "repo": "hxgamejolt-api",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "gamejolt",
+                  "haxe"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -621,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spine runtime for Haxe automatically converted from the official Java/libgdx runtime",
+                "homepage": null,
                 "id": 69568001,
                 "language": "Haxe",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-30T21:19:10Z",
+                "open_issues": 13,
                 "owner": "jeremyfa",
                 "repo": "spine-hx",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -637,12 +926,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Aseprite File Parser for Heaps",
+                "homepage": "https://lib.haxe.org/p/heaps-aseprite/",
                 "id": 305015790,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2024-01-26T21:13:13Z",
+                "open_issues": 2,
                 "owner": "AustinEast",
                 "repo": "heaps-aseprite",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "aseprite",
+                  "haxe",
+                  "heaps"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -653,12 +951,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yagp's Gif Player for HaxeFlixel.",
+                "homepage": "https://lib.haxe.org/p/flxgif",
                 "id": 621907607,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2025-04-12T20:56:35Z",
+                "open_issues": 0,
                 "owner": "MAJigsaw77",
                 "repo": "flxgif",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "gif",
+                  "haxe",
+                  "haxeflixel"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -669,12 +976,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aseprite file format reader/writer written in Haxe",
+                "homepage": null,
                 "id": 200552595,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2025-07-17T18:45:28Z",
+                "open_issues": 1,
                 "owner": "miriti",
                 "repo": "ase",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "aseprite",
+                  "haxe"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -685,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spine player for heaps",
+                "homepage": null,
                 "id": 151374033,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2019-03-20T05:30:19Z",
+                "open_issues": 3,
                 "owner": "Beeblerox",
                 "repo": "Heaps-Spine",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -701,12 +1021,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Aseprite files as Sprites in OpenFL projects",
+                "homepage": null,
                 "id": 99158611,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2021-06-14T20:55:15Z",
+                "open_issues": 0,
                 "owner": "miriti",
                 "repo": "openfl-aseprite",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "animation",
+                  "aseprite",
+                  "game-development",
+                  "gamedev",
+                  "haxe",
+                  "openfl",
+                  "openfl-aseprite",
+                  "pixel-art",
+                  "pixelart",
+                  "sprites"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -717,12 +1053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supports Spine renderer versions 3.8 to 4.2 on OpenFL",
+                "homepage": null,
                 "id": 149408345,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-02-09T14:22:49Z",
+                "open_issues": 2,
                 "owner": "rainyt",
                 "repo": "openfl-spine",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -740,12 +1081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sfxr in pure haxe",
+                "homepage": null,
                 "id": 629629357,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2023-05-12T15:38:00Z",
+                "open_issues": 0,
                 "owner": "jobf",
                 "repo": "sfxr-hx",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -763,12 +1109,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haxe color manipulation library.",
+                "homepage": null,
                 "id": 20329747,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2017-05-24T09:57:23Z",
+                "open_issues": 0,
                 "owner": "oscarcs",
                 "repo": "nxColor",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "color",
+                  "gamedev",
+                  "haxe"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -786,12 +1141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A separation axis theorem collision library for Haxe.",
+                "homepage": "https://snowkit.github.io/differ/",
                 "id": 6333796,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2020-05-08T02:24:44Z",
+                "open_issues": 2,
                 "owner": "snowkit",
                 "repo": "differ",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -809,12 +1169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross framework, cross platform computer vision for Haxe",
+                "homepage": null,
                 "id": 515292306,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-06-06T14:36:34Z",
+                "open_issues": 6,
                 "owner": "ShaharMS",
                 "repo": "Vision",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -832,12 +1197,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Haxe library containing data structures for games.",
+                "homepage": null,
                 "id": 4685589,
                 "language": "Haxe",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-22T19:36:46Z",
+                "open_issues": 17,
                 "owner": "polygonal",
                 "repo": "ds",
-                "stars": 349
+                "stars": 349,
+                "topics": [
+                  "cross-platform",
+                  "data-structures",
+                  "haxe"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -855,12 +1229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moved to https://git.codyclaborn.me/cxsquared/hxyarn",
+                "homepage": "https://git.codyclaborn.me/cxsquared/hxyarn",
                 "id": 338209545,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-07-06T23:01:52Z",
+                "open_issues": 1,
                 "owner": "cxsquared",
                 "repo": "hxyarn",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -878,12 +1257,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embeddable, in-game editor for HaxeFlixel. Turn the existing Flixel debugger into a full-featured editor!",
+                "homepage": null,
                 "id": 142412724,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2023-01-02T11:25:55Z",
+                "open_issues": 9,
                 "owner": "Dovyski",
                 "repo": "flixel-studio",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "editor",
+                  "flixel",
+                  "gamedev",
+                  "haxe",
+                  "haxeflixel",
+                  "haxelib",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -901,12 +1293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The general personal libs I use in my Haxe projects.",
+                "homepage": "https://deepnight.net",
                 "id": 208818495,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-08-11T23:35:45Z",
+                "open_issues": 4,
                 "owner": "deepnight",
                 "repo": "deepnightLibs",
-                "stars": 272
+                "stars": 272,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -924,12 +1321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A translation/localization framework written in Haxe",
+                "homepage": null,
                 "id": 11746074,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2024-01-11T20:58:15Z",
+                "open_issues": 12,
                 "owner": "larsiusprime",
                 "repo": "firetongue",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -947,12 +1349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDtk level editor Haxe API (available on HaxeLib)",
+                "homepage": null,
                 "id": 278713058,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-04-23T13:25:50Z",
+                "open_issues": 16,
                 "owner": "deepnight",
                 "repo": "ldtk-haxe-api",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -963,12 +1370,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parser for maps generated by the editor PyxelEdit",
+                "homepage": null,
                 "id": 13132579,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2019-11-17T20:54:42Z",
+                "open_issues": 1,
                 "owner": "Dvergar",
                 "repo": "PyxelEdit-Map-Importer",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "haxe",
+                  "importer",
+                  "pyxel",
+                  "tile",
+                  "tilemap"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -979,12 +1397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An evolution of the format-tiled library: The comprehensive framework-agnostic Tiled library for Haxe",
+                "homepage": null,
                 "id": 606469331,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2024-06-24T01:11:04Z",
+                "open_issues": 1,
                 "owner": "Yanrishatum",
                 "repo": "tiledhx",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1002,12 +1425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A math library for Haxe.",
+                "homepage": null,
                 "id": 21682057,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2023-02-10T04:25:35Z",
+                "open_issues": 10,
                 "owner": "tbrosman",
                 "repo": "hxmath",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -1018,12 +1446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)",
+                "homepage": null,
                 "id": 46381930,
                 "language": "Haxe",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-07T23:59:34Z",
+                "open_issues": 1,
                 "owner": "hamaluik",
                 "repo": "haxe-glm",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -1034,12 +1467,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2d Vector for Haxe",
+                "homepage": null,
                 "id": 141144823,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2019-12-13T10:28:31Z",
+                "open_issues": 0,
                 "owner": "markknol",
                 "repo": "hx-vector2d",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "geometry",
+                  "haxe",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1057,12 +1499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Atomic modding framework for Haxe",
+                "homepage": null,
                 "id": 145896674,
                 "language": "Haxe",
-                "last_commit": "2026-08-28T05:08:50Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T19:46:14Z",
+                "open_issues": 49,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1080,12 +1527,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular Macro-powered Particle System for haxe",
+                "homepage": null,
                 "id": 112707364,
                 "language": "Haxe",
+                "license": "Zlib",
                 "last_commit": "2025-04-27T18:43:50Z",
+                "open_issues": 2,
                 "owner": "AndreiRudenko",
                 "repo": "sparkler",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "haxe",
+                  "kha",
+                  "modular",
+                  "particle-system",
+                  "particles"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1103,12 +1561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support for In-App Purchase",
+                "homepage": null,
                 "id": 91098590,
                 "language": "Haxe",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-28T05:04:37Z",
+                "open_issues": 0,
                 "owner": "charmdev",
                 "repo": "extension-iap",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1126,12 +1589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "easy A* (A Star / astar) pathfinding (Haxe)",
+                "homepage": null,
                 "id": 38653091,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2016-08-15T17:26:00Z",
+                "open_issues": 0,
                 "owner": "hypersurge",
                 "repo": "pathfinder",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1149,12 +1617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dungeon builder visualizer",
+                "homepage": null,
                 "id": 17575913,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2014-04-10T12:51:24Z",
+                "open_issues": 0,
                 "owner": "julsam",
                 "repo": "dungeon-builder",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1172,12 +1645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shading language that can be compiled into GLSL ES 3.0",
+                "homepage": null,
                 "id": 480005377,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2023-11-19T11:42:49Z",
+                "open_issues": 4,
                 "owner": "saharan",
                 "repo": "HGSL",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -1188,12 +1666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HaxeFlixel Shaders and Supporting Utilities",
+                "homepage": null,
                 "id": 478412826,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2023-11-28T05:25:25Z",
+                "open_issues": 0,
                 "owner": "47rooks",
                 "repo": "parasol",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1211,12 +1694,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haxe parser for .ase and .aseprite files.",
+                "homepage": null,
                 "id": 156927644,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2019-10-07T05:55:22Z",
+                "open_issues": 0,
                 "owner": "PongoEngine",
                 "repo": "haxe-aseprite",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "gamedev",
+                  "haxe",
+                  "parser",
+                  "pixel-art",
+                  "pixelart"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1234,12 +1728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haxe port of the libGDX Texture Packer",
+                "homepage": null,
                 "id": 21114188,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2019-01-30T07:48:03Z",
+                "open_issues": 1,
                 "owner": "bendmorris",
                 "repo": "hxpk",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1257,12 +1756,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Actuate is a flexible, fast \"tween\" library for animations in Haxe",
+                "homepage": null,
                 "id": 3205934,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-03-17T20:41:32Z",
+                "open_issues": 38,
                 "owner": "openfl",
                 "repo": "actuate",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "animation",
+                  "haxe",
+                  "tween"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -1273,12 +1781,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross platform tween library for Haxe",
+                "homepage": "http://tweenx.spheresofa.net/core/en.html",
                 "id": 13174597,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-31T00:14:20Z",
+                "open_issues": 8,
                 "owner": "shohei909",
                 "repo": "tweenx",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "animation",
+                  "haxe",
+                  "tween"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -1289,12 +1806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YATL - Yet Another (Haxe) Tweening Library",
+                "homepage": null,
                 "id": 147553874,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2019-01-19T13:37:35Z",
+                "open_issues": 0,
                 "owner": "Yanrishatum",
                 "repo": "yatl",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1312,12 +1834,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI library for HaxeFlixel",
+                "homepage": null,
                 "id": 11459985,
                 "language": "Haxe",
+                "license": null,
                 "last_commit": "2026-07-14T02:26:46Z",
+                "open_issues": 55,
                 "owner": "HaxeFlixel",
                 "repo": "flixel-ui",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "gui",
+                  "haxeflixel",
+                  "haxelib",
+                  "xml-layout"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             },
@@ -1328,12 +1860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS Components based strictly typed UI framework for Haxe",
+                "homepage": null,
                 "id": 167795412,
                 "language": "Haxe",
+                "license": "MIT",
                 "last_commit": "2026-06-02T16:06:02Z",
+                "open_issues": 13,
                 "owner": "HeapsIO",
                 "repo": "domkit",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1351,12 +1888,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haxe library for native video playback on HaxeFlixel and OpenFL.",
+                "homepage": "https://lib.haxe.org/p/hxCodec",
                 "id": 394515093,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2024-05-11T09:14:55Z",
+                "open_issues": 8,
                 "owner": "polybiusproxy",
                 "repo": "hxCodec",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "fnf",
+                  "haxe",
+                  "haxeflixel",
+                  "libvlc",
+                  "mp4",
+                  "openfl",
+                  "video",
+                  "vlc"
+                ]
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
             }
@@ -1378,12 +1929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources by the snõwkit collective (http://snowkit.org/)",
+            "homepage": null,
             "id": 29406302,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-09T14:16:26Z",
+            "open_issues": 0,
             "owner": "anissen",
             "repo": "awesome-snowkit",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -1394,12 +1950,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of useful Haxe links.",
+            "homepage": null,
             "id": 40976388,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-05T07:35:53Z",
+            "open_issues": 2,
             "owner": "nadako",
             "repo": "awesome-haxe",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -1410,12 +1971,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful resources for Haxe JavaScript.",
+            "homepage": null,
             "id": 121724859,
             "language": null,
+            "license": null,
             "last_commit": "2018-02-23T16:34:37Z",
+            "open_issues": 0,
             "owner": "MatthijsKamstra",
             "repo": "awesome-haxe-js",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "awesome",
+              "externs",
+              "haxe",
+              "javascript",
+              "js"
+            ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         }
@@ -1424,15 +1996,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:41:16.981Z",
+    "last_updated": "2026-08-29T04:44:42.761Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resources for game development on haxe",
+      "homepage": null,
       "id": 168940213,
       "language": "Haxe",
+      "license": "CC0-1.0",
       "last_commit": "2023-11-17T21:20:29Z",
+      "open_issues": 0,
       "owner": "Dvergar",
       "repo": "awesome-haxe-gamedev",
-      "stars": 421
+      "stars": 421,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "engine",
+        "framework",
+        "game",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "haxe",
+        "libraries",
+        "list",
+        "resources"
+      ]
     },
     "original_repository_sha": "6731f6ebc91caa68bc3d104efd49f6cdc1e79ec7",
     "enhanced_repository": "enhansome/enhansome-haxe-gamedev",

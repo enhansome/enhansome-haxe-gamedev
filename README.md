@@ -24,7 +24,7 @@ Feel free to update it.
 Those are Haxe 4 compatible game engines
 
 * [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,498 | 🐛 183 | 🌐 Haxe | 📅 2026-08-27 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,317 | 🐛 396 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,318 | 🐛 396 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,196 | 🐛 303 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,152 | 🐛 338 | 🌐 Haxe | 📅 2026-08-24 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
@@ -68,7 +68,7 @@ MVC == Model View Controller
 ## Networking
 
 * [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) ⭐ 94 | 🐛 14 | 🌐 Haxe | 📅 2025-05-11 - Websockets for all platforms.
-* [colyseus-hx](https://github.com/colyseus/colyseus-hx) ⭐ 90 | 🐛 2 | 🌐 Haxe | 📅 2026-08-25 - Multiplayer Game Client.
+* [colyseus-hx](https://github.com/colyseus/colyseus-hx) ⭐ 90 | 🐛 2 | 🌐 Haxe | 📅 2026-08-28 - Multiplayer Game Client.
 * [Anette](https://github.com/Dvergar/Anette) ⭐ 36 | 🐛 3 | 🌐 Haxe | 📅 2019-11-18 - Simple network library (no UDP).
 * [haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) ⭐ 4 | 🐛 0 | 🌐 Haxe | 📅 2019-01-31 - Haxe externs for simple-peer.
 * Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 210 | 🐛 48 | 🌐 Haxe | 📅 2026-08-28 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 210 | 🐛 49 | 🌐 Haxe | 📅 2026-08-28 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
