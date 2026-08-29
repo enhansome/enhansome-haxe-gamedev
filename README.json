@@ -150,7 +150,7 @@
             "id": 84566136,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-08-25T21:59:38Z",
+            "last_commit": "2026-08-29T09:15:40Z",
             "open_issues": 30,
             "owner": "ceramic-engine",
             "repo": "ceramic",
@@ -337,7 +337,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1631,
+            "stars": 1632,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -812,7 +812,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1631,
+            "stars": 1632,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1455,7 +1455,7 @@
                 "open_issues": 1,
                 "owner": "hamaluik",
                 "repo": "haxe-glm",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:42.761Z",
+    "last_updated": "2026-08-29T11:08:25.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",

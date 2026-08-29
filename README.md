@@ -28,7 +28,7 @@ Those are Haxe 4 compatible game engines
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,196 | 🐛 303 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,152 | 🐛 338 | 🌐 Haxe | 📅 2026-08-24 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 353 | 🐛 30 | 🌐 Haxe | 📅 2026-08-25 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 353 | 🐛 30 | 🌐 Haxe | 📅 2026-08-29 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 268 | 🐛 17 | 🌐 Haxe | 📅 2026-07-21 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
 * [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) ⚠️ Archived - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [hxdefold](https://github.com/hxdefold/hxdefold) ⭐ 233 | 🐛 9 | 🌐 Haxe | 📅 2025-11-17 - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
@@ -38,7 +38,7 @@ Those are Haxe 4 compatible game engines
 
 ## Low-level Engine
 
-* [Kha](https://github.com/Kode/Kha) ⭐ 1,631 | 🐛 145 | 🌐 C | 📅 2026-08-10 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Kha](https://github.com/Kode/Kha) ⭐ 1,632 | 🐛 145 | 🌐 C | 📅 2026-08-10 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Lime](https://github.com/openfl/lime) ⭐ 847 | 🐛 213 | 🌐 JavaScript | 📅 2026-08-28 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
 * [NME](https://github.com/haxenme/nme) ⭐ 496 | 🐛 44 | 🌐 C | 📅 2026-08-08 - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
 * [linc\_glfw](https://github.com/Sunjammer/linc_glfw) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2019-09-16 - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
@@ -113,7 +113,7 @@ MVC == Model View Controller
 
 More showcase :
 
-* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,631 | 🐛 145 | 🌐 C | 📅 2026-08-10
+* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,632 | 🐛 145 | 🌐 C | 📅 2026-08-10
 * [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) ⭐ 752 | 🐛 119 | 🌐 Haxe | 📅 2021-04-16
 * [OpenFL showcase](https://www.openfl.org/showcase)
 * [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
@@ -190,7 +190,7 @@ More showcase :
 ### Math helpers
 
 * [hxmath](https://github.com/tbrosman/hxmath) ⭐ 92 | 🐛 10 | 🌐 Haxe | 📅 2023-02-10 - A game-oriented math library.
-* [haxe-glm](https://github.com/hamaluik/haxe-glm) ⭐ 47 | 🐛 1 | 🌐 Haxe | 📅 2017-11-07 - A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.
+* [haxe-glm](https://github.com/hamaluik/haxe-glm) ⭐ 48 | 🐛 1 | 🌐 Haxe | 📅 2017-11-07 - A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.
 * [hx-vector2d](https://github.com/markknol/hx-vector2d) ⭐ 13 | 🐛 0 | 🌐 Haxe | 📅 2019-12-13 - Worlds most complete Vector2d / Point class. With operator overloading.
 
 ### Modding
