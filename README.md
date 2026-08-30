@@ -25,8 +25,8 @@ Those are Haxe 4 compatible game engines
 
 * [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,498 | 🐛 183 | 🌐 Haxe | 📅 2026-08-27 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,318 | 🐛 396 | 🌐 C++ | 📅 2026-07-16 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,196 | 🐛 303 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,152 | 🐛 338 | 🌐 Haxe | 📅 2026-08-24 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,197 | 🐛 303 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,153 | 🐛 339 | 🌐 Haxe | 📅 2026-08-24 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 353 | 🐛 30 | 🌐 Haxe | 📅 2026-08-29 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 268 | 🐛 17 | 🌐 Haxe | 📅 2026-07-21 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
@@ -38,8 +38,8 @@ Those are Haxe 4 compatible game engines
 
 ## Low-level Engine
 
-* [Kha](https://github.com/Kode/Kha) ⭐ 1,632 | 🐛 145 | 🌐 C | 📅 2026-08-10 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Lime](https://github.com/openfl/lime) ⭐ 847 | 🐛 213 | 🌐 JavaScript | 📅 2026-08-28 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
+* [Kha](https://github.com/Kode/Kha) ⭐ 1,633 | 🐛 145 | 🌐 C | 📅 2026-08-10 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Lime](https://github.com/openfl/lime) ⭐ 847 | 🐛 213 | 🌐 JavaScript | 📅 2026-08-29 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
 * [NME](https://github.com/haxenme/nme) ⭐ 496 | 🐛 44 | 🌐 C | 📅 2026-08-08 - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
 * [linc\_glfw](https://github.com/Sunjammer/linc_glfw) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2019-09-16 - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
 * [3DSHaxe](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
@@ -113,7 +113,7 @@ MVC == Model View Controller
 
 More showcase :
 
-* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,632 | 🐛 145 | 🌐 C | 📅 2026-08-10
+* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,633 | 🐛 145 | 🌐 C | 📅 2026-08-10
 * [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) ⭐ 752 | 🐛 119 | 🌐 Haxe | 📅 2021-04-16
 * [OpenFL showcase](https://www.openfl.org/showcase)
 * [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
@@ -235,7 +235,7 @@ More showcase :
 
 ### UI
 
-* [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) ⭐ 196 | 🐛 55 | 🌐 Haxe | 📅 2026-07-14 - GUI library for HaxeFlixel.
+* [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) ⭐ 197 | 🐛 55 | 🌐 Haxe | 📅 2026-07-14 - GUI library for HaxeFlixel.
 * [domkit](https://github.com/ncannasse/domkit) ⭐ 94 | 🐛 13 | 🌐 Haxe | 📅 2026-06-02 - CSS Components based strictly typed UI framework.
 * [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
 * [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

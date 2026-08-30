@@ -67,7 +67,7 @@
             "open_issues": 303,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2196,
+            "stars": 2197,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -94,10 +94,10 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-08-24T18:46:08Z",
-            "open_issues": 338,
+            "open_issues": 339,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2152,
+            "stars": 2153,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -150,7 +150,7 @@
             "id": 84566136,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:15:40Z",
+            "last_commit": "2026-08-29T17:02:06Z",
             "open_issues": 30,
             "owner": "ceramic-engine",
             "repo": "ceramic",
@@ -337,7 +337,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1632,
+            "stars": 1633,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -354,7 +354,7 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:20:04Z",
+            "last_commit": "2026-08-29T19:06:23Z",
             "open_issues": 213,
             "owner": "openfl",
             "repo": "lime",
@@ -812,7 +812,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1632,
+            "stars": 1633,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1843,7 +1843,7 @@
                 "open_issues": 55,
                 "owner": "HaxeFlixel",
                 "repo": "flixel-ui",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "gui",
                   "haxeflixel",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:08:25.247Z",
+    "last_updated": "2026-08-30T09:58:00.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
