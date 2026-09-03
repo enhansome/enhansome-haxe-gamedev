@@ -15,8 +15,8 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-02T08:28:23Z",
-            "open_issues": 185,
+            "last_commit": "2026-09-03T08:15:42Z",
+            "open_issues": 184,
             "owner": "HeapsIO",
             "repo": "heaps",
             "stars": 3499,
@@ -93,8 +93,8 @@
             "id": 8869463,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-02T00:06:22Z",
-            "open_issues": 339,
+            "last_commit": "2026-09-02T23:16:50Z",
+            "open_issues": 340,
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2153,
@@ -337,7 +337,7 @@
             "open_issues": 144,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1633,
+            "stars": 1632,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -718,7 +718,7 @@
             "open_issues": 58,
             "owner": "ncannasse",
             "repo": "castle",
-            "stars": 607,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -812,7 +812,7 @@
             "open_issues": 144,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1633,
+            "stars": 1632,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1504,7 +1504,7 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-01T02:46:02Z",
+                "last_commit": "2026-09-03T01:16:34Z",
                 "open_issues": 48,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
@@ -1843,7 +1843,7 @@
                 "open_issues": 55,
                 "owner": "HaxeFlixel",
                 "repo": "flixel-ui",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "gui",
                   "haxeflixel",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:48:34.442Z",
+    "last_updated": "2026-09-03T08:57:51.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
