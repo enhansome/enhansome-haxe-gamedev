@@ -19,7 +19,7 @@
             "open_issues": 184,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3498,
+            "stars": 3499,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -37,7 +37,7 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-07-16T06:31:41Z",
-            "open_issues": 396,
+            "open_issues": 397,
             "owner": "armory3d",
             "repo": "armory",
             "stars": 3318,
@@ -67,7 +67,7 @@
             "open_issues": 304,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2201,
+            "stars": 2203,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -94,7 +94,7 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-09-04T22:57:45Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2153,
@@ -358,7 +358,7 @@
             "open_issues": 214,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "cross-platform",
               "frontend",
@@ -1206,7 +1206,7 @@
                 "open_issues": 17,
                 "owner": "polygonal",
                 "repo": "ds",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "cross-platform",
                   "data-structures",
@@ -1508,7 +1508,7 @@
                 "open_issues": 46,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
-                "stars": 210,
+                "stars": 211,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:22:45.166Z",
+    "last_updated": "2026-09-06T08:41:38.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
