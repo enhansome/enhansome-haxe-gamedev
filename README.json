@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:06:19Z",
+            "last_commit": "2026-09-07T07:54:33Z",
             "open_issues": 184,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -37,7 +37,7 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-07-16T06:31:41Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "armory3d",
             "repo": "armory",
             "stars": 3318,
@@ -67,7 +67,7 @@
             "open_issues": 304,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2203,
+            "stars": 2204,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -249,7 +249,7 @@
             "open_issues": 28,
             "owner": "openfl",
             "repo": "away3d",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "3d-engine",
               "away3d",
@@ -1355,7 +1355,7 @@
                 "language": "Haxe",
                 "license": "MIT",
                 "last_commit": "2026-04-23T13:25:50Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "deepnight",
                 "repo": "ldtk-haxe-api",
                 "stars": 103,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:41:38.949Z",
+    "last_updated": "2026-09-07T09:24:08.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
