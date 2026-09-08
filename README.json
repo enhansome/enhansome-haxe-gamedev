@@ -19,7 +19,7 @@
             "open_issues": 184,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3499,
+            "stars": 3500,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -40,7 +40,7 @@
             "open_issues": 398,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3318,
+            "stars": 3320,
             "topics": [
               "3d",
               "blender",
@@ -67,7 +67,7 @@
             "open_issues": 304,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2204,
+            "stars": 2205,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -94,7 +94,7 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-09-04T22:57:45Z",
-            "open_issues": 338,
+            "open_issues": 339,
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2153,
@@ -175,7 +175,7 @@
             "open_issues": 17,
             "owner": "openfl",
             "repo": "starling",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "gpu",
               "haxe",
@@ -249,7 +249,7 @@
             "open_issues": 28,
             "owner": "openfl",
             "repo": "away3d",
-            "stars": 229,
+            "stars": 228,
             "topics": [
               "3d-engine",
               "away3d",
@@ -272,7 +272,7 @@
             "language": "Haxe",
             "license": null,
             "last_commit": "2026-09-04T01:45:41Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Stencyl",
             "repo": "stencyl-engine",
             "stars": 215,
@@ -355,7 +355,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-05T01:37:24Z",
-            "open_issues": 214,
+            "open_issues": 215,
             "owner": "openfl",
             "repo": "lime",
             "stars": 848,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:24:08.367Z",
+    "last_updated": "2026-09-08T08:53:34.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
