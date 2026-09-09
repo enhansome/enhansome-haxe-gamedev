@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-07T07:54:33Z",
+            "last_commit": "2026-09-08T14:40:58Z",
             "open_issues": 184,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -40,7 +40,7 @@
             "open_issues": 398,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3320,
+            "stars": 3322,
             "topics": [
               "3d",
               "blender",
@@ -337,7 +337,7 @@
             "open_issues": 144,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1633,
+            "stars": 1634,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -735,7 +735,7 @@
             "id": 76732241,
             "language": "Haxe",
             "license": null,
-            "last_commit": "2026-08-31T12:27:30Z",
+            "last_commit": "2026-09-09T08:55:33Z",
             "open_issues": 11,
             "owner": "HeapsIO",
             "repo": "hxbit",
@@ -812,7 +812,7 @@
             "open_issues": 144,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1633,
+            "stars": 1634,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1174,7 +1174,7 @@
                 "id": 515292306,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-06-06T14:36:34Z",
+                "last_commit": "2026-09-09T08:55:17Z",
                 "open_issues": 6,
                 "owner": "ShaharMS",
                 "repo": "Vision",
@@ -1504,8 +1504,8 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-05T01:14:39Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-08T20:07:31Z",
+                "open_issues": 44,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 211,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:53:34.283Z",
+    "last_updated": "2026-09-09T08:59:35.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
