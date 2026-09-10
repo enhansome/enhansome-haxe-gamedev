@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:40:58Z",
+            "last_commit": "2026-09-10T07:32:00Z",
             "open_issues": 184,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3500,
+            "stars": 3501,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -36,11 +36,11 @@
             "id": 45202654,
             "language": "C++",
             "license": "Zlib",
-            "last_commit": "2026-07-16T06:31:41Z",
-            "open_issues": 398,
+            "last_commit": "2026-09-09T11:57:47Z",
+            "open_issues": 397,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3322,
+            "stars": 3325,
             "topics": [
               "3d",
               "blender",
@@ -67,7 +67,7 @@
             "open_issues": 304,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2205,
+            "stars": 2207,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -150,11 +150,11 @@
             "id": 84566136,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-03T13:40:28Z",
+            "last_commit": "2026-09-09T18:18:27Z",
             "open_issues": 30,
             "owner": "ceramic-engine",
             "repo": "ceramic",
-            "stars": 354,
+            "stars": 355,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -355,7 +355,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-05T01:37:24Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "openfl",
             "repo": "lime",
             "stars": 848,
@@ -718,7 +718,7 @@
             "open_issues": 58,
             "owner": "ncannasse",
             "repo": "castle",
-            "stars": 608,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1174,7 +1174,7 @@
                 "id": 515292306,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-09T08:55:17Z",
+                "last_commit": "2026-09-09T11:11:30Z",
                 "open_issues": 6,
                 "owner": "ShaharMS",
                 "repo": "Vision",
@@ -1505,7 +1505,7 @@
                 "language": "Haxe",
                 "license": "MIT",
                 "last_commit": "2026-09-08T20:07:31Z",
-                "open_issues": 44,
+                "open_issues": 46,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 211,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:59:35.800Z",
+    "last_updated": "2026-09-10T08:58:33.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
