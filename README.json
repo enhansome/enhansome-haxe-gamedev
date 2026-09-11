@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:32:00Z",
+            "last_commit": "2026-09-11T07:39:11Z",
             "open_issues": 184,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -40,7 +40,7 @@
             "open_issues": 397,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3325,
+            "stars": 3328,
             "topics": [
               "3d",
               "blender",
@@ -175,7 +175,7 @@
             "open_issues": 17,
             "owner": "openfl",
             "repo": "starling",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "gpu",
               "haxe",
@@ -358,7 +358,7 @@
             "open_issues": 216,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "cross-platform",
               "frontend",
@@ -714,7 +714,7 @@
             "id": 5912693,
             "language": "Haxe",
             "license": "ISC",
-            "last_commit": "2026-08-27T14:38:06Z",
+            "last_commit": "2026-09-11T07:46:28Z",
             "open_issues": 58,
             "owner": "ncannasse",
             "repo": "castle",
@@ -735,7 +735,7 @@
             "id": 76732241,
             "language": "Haxe",
             "license": null,
-            "last_commit": "2026-09-09T08:55:33Z",
+            "last_commit": "2026-09-10T10:07:31Z",
             "open_issues": 11,
             "owner": "HeapsIO",
             "repo": "hxbit",
@@ -1505,7 +1505,7 @@
                 "language": "Haxe",
                 "license": "MIT",
                 "last_commit": "2026-09-08T20:07:31Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 211,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:58:33.271Z",
+    "last_updated": "2026-09-11T08:56:36.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
