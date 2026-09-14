@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-11T07:39:11Z",
+            "last_commit": "2026-09-14T09:15:49Z",
             "open_issues": 185,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -40,7 +40,7 @@
             "open_issues": 397,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3331,
+            "stars": 3333,
             "topics": [
               "3d",
               "blender",
@@ -67,7 +67,7 @@
             "open_issues": 304,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2209,
+            "stars": 2210,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -275,7 +275,7 @@
             "open_issues": 7,
             "owner": "Stencyl",
             "repo": "stencyl-engine",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "game-engine",
               "haxe",
@@ -337,7 +337,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1634,
+            "stars": 1635,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -358,7 +358,7 @@
             "open_issues": 216,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "cross-platform",
               "frontend",
@@ -633,7 +633,7 @@
             "id": 140221881,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-01T23:26:36Z",
+            "last_commit": "2026-09-13T09:43:55Z",
             "open_issues": 2,
             "owner": "colyseus",
             "repo": "colyseus-haxe",
@@ -812,7 +812,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1634,
+            "stars": 1635,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1504,8 +1504,8 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-11T22:46:41Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-13T22:00:38Z",
+                "open_issues": 41,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 212,
@@ -1843,7 +1843,7 @@
                 "open_issues": 55,
                 "owner": "HaxeFlixel",
                 "repo": "flixel-ui",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "gui",
                   "haxeflixel",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:37:03.071Z",
+    "last_updated": "2026-09-14T09:55:09.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
