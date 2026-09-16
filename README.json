@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-15T07:46:40Z",
+            "last_commit": "2026-09-16T08:27:36Z",
             "open_issues": 185,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -37,10 +37,10 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-09-09T11:57:47Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3336,
+            "stars": 3337,
             "topics": [
               "3d",
               "blender",
@@ -97,7 +97,7 @@
             "open_issues": 342,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2154,
+            "stars": 2155,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -133,7 +133,7 @@
             "open_issues": 46,
             "owner": "proletariatgames",
             "repo": "unreal.hx",
-            "stars": 429,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -337,7 +337,7 @@
             "open_issues": 146,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1635,
+            "stars": 1636,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -354,11 +354,11 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T23:13:21Z",
+            "last_commit": "2026-09-15T17:57:30Z",
             "open_issues": 216,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 849,
+            "stars": 851,
             "topics": [
               "cross-platform",
               "frontend",
@@ -411,7 +411,7 @@
             "open_issues": 0,
             "owner": "Sunjammer",
             "repo": "linc_glfw",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -812,7 +812,7 @@
             "open_issues": 146,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1635,
+            "stars": 1636,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1504,7 +1504,7 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-15T01:16:16Z",
+                "last_commit": "2026-09-16T03:02:52Z",
                 "open_issues": 40,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:31:01.998Z",
+    "last_updated": "2026-09-16T09:19:50.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
@@ -2008,7 +2008,7 @@
       "open_issues": 0,
       "owner": "Dvergar",
       "repo": "awesome-haxe-gamedev",
-      "stars": 421,
+      "stars": 422,
       "topics": [
         "awesome",
         "awesome-list",
