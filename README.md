@@ -23,13 +23,13 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,501 | 🐛 185 | 🌐 Haxe | 📅 2026-09-18 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,338 | 🐛 399 | 🌐 C++ | 📅 2026-09-09 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,211 | 🐛 304 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,502 | 🐛 186 | 🌐 Haxe | 📅 2026-09-18 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,339 | 🐛 399 | 🌐 C++ | 📅 2026-09-09 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,210 | 🐛 304 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,158 | 🐛 342 | 🌐 Haxe | 📅 2026-09-16 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 430 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 355 | 🐛 30 | 🌐 Haxe | 📅 2026-09-09 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
-* [Starling](https://github.com/openfl/starling) ⭐ 269 | 🐛 17 | 🌐 Haxe | 📅 2026-09-03 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
+* [Starling](https://github.com/openfl/starling) ⭐ 270 | 🐛 17 | 🌐 Haxe | 📅 2026-09-03 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
 * [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) ⚠️ Archived - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [hxdefold](https://github.com/hxdefold/hxdefold) ⭐ 233 | 🐛 9 | 🌐 Haxe | 📅 2025-11-17 - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
 * [Away3D](https://github.com/openfl/away3d) ⭐ 228 | 🐛 28 | 🌐 Haxe | 📅 2026-07-27 - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 212 | 🐛 38 | 🌐 Haxe | 📅 2026-09-18 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 212 | 🐛 38 | 🌐 Haxe | 📅 2026-09-19 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -235,14 +235,14 @@ More showcase :
 
 ### UI
 
-* [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) ⭐ 200 | 🐛 55 | 🌐 Haxe | 📅 2026-07-14 - GUI library for HaxeFlixel.
+* [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) ⭐ 201 | 🐛 55 | 🌐 Haxe | 📅 2026-07-14 - GUI library for HaxeFlixel.
 * [domkit](https://github.com/ncannasse/domkit) ⭐ 94 | 🐛 13 | 🌐 Haxe | 📅 2026-06-02 - CSS Components based strictly typed UI framework.
 * [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
 * [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
 
 ### Video
 
-* [hxCodec](https://github.com/polybiusproxy/hxCodec) ⭐ 113 | 🐛 8 | 🌐 C | 📅 2024-05-11 - Adds native video playback on HaxeFlixel and OpenFL.
+* [hxCodec](https://github.com/polybiusproxy/hxCodec) ⭐ 114 | 🐛 8 | 🌐 C | 📅 2024-05-11 - Adds native video playback on HaxeFlixel and OpenFL.
 
 ## Articles
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

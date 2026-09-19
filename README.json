@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-18T08:58:40Z",
-            "open_issues": 185,
+            "last_commit": "2026-09-18T10:45:30Z",
+            "open_issues": 186,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3501,
+            "stars": 3502,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -40,7 +40,7 @@
             "open_issues": 399,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3338,
+            "stars": 3339,
             "topics": [
               "3d",
               "blender",
@@ -67,7 +67,7 @@
             "open_issues": 304,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2211,
+            "stars": 2210,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -175,7 +175,7 @@
             "open_issues": 17,
             "owner": "openfl",
             "repo": "starling",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "gpu",
               "haxe",
@@ -1504,7 +1504,7 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:53:19Z",
+                "last_commit": "2026-09-19T01:31:26Z",
                 "open_issues": 38,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
@@ -1843,7 +1843,7 @@
                 "open_issues": 55,
                 "owner": "HaxeFlixel",
                 "repo": "flixel-ui",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "gui",
                   "haxeflixel",
@@ -1897,7 +1897,7 @@
                 "open_issues": 8,
                 "owner": "polybiusproxy",
                 "repo": "hxCodec",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "fnf",
                   "haxe",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:01:50.300Z",
+    "last_updated": "2026-09-19T08:49:44.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
