@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-27T09:55:05Z",
+            "last_commit": "2026-09-28T10:19:29Z",
             "open_issues": 189,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3505,
+            "stars": 3504,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -64,7 +64,7 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-08-23T21:22:28Z",
-            "open_issues": 304,
+            "open_issues": 305,
             "owner": "HaxeFlixel",
             "repo": "flixel",
             "stars": 2213,
@@ -188,27 +188,6 @@
         },
         {
           "node_type": "item",
-          "title": "HxGodot (Godot 4.0)",
-          "description": "A Haxe GDExtension for Godot 4 (, , , ).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A Haxe GDExtension for Godot 4",
-            "homepage": null,
-            "id": 517048477,
-            "language": "Haxe",
-            "license": "MIT",
-            "last_commit": "2024-10-12T10:36:01Z",
-            "open_issues": 10,
-            "owner": "HxGodot",
-            "repo": "hxgodot",
-            "stars": 235,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:41:16.981Z"
-        },
-        {
-          "node_type": "item",
           "title": "hxdefold",
           "description": "Haxe/Lua externs for Defold game engine (, , ).",
           "children": [],
@@ -230,6 +209,27 @@
               "lua",
               "lua-externs"
             ]
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HxGodot (Godot 4.0)",
+          "description": "A Haxe GDExtension for Godot 4 (, , , ).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "A Haxe GDExtension for Godot 4",
+            "homepage": null,
+            "id": 517048477,
+            "language": "Haxe",
+            "license": "MIT",
+            "last_commit": "2024-10-12T10:36:01Z",
+            "open_issues": 10,
+            "owner": "HxGodot",
+            "repo": "hxgodot",
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
         },
@@ -337,7 +337,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1637,
+            "stars": 1638,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -812,7 +812,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1637,
+            "stars": 1638,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1504,8 +1504,8 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-09-27T06:42:25Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-28T01:29:50Z",
+                "open_issues": 37,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 212,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:02:16.355Z",
+    "last_updated": "2026-09-28T10:58:00.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
