@@ -23,10 +23,10 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,504 | 🐛 189 | 🌐 Haxe | 📅 2026-09-29 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,341 | 🐛 397 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,213 | 🐛 305 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,158 | 🐛 342 | 🌐 Haxe | 📅 2026-09-28 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,505 | 🐛 189 | 🌐 Haxe | 📅 2026-09-30 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,342 | 🐛 397 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,213 | 🐛 306 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,158 | 🐛 341 | 🌐 Haxe | 📅 2026-09-29 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 354 | 🐛 30 | 🌐 Haxe | 📅 2026-09-21 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 270 | 🐛 17 | 🌐 Haxe | 📅 2026-09-03 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
