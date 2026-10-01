@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:57:41Z",
-            "open_issues": 189,
+            "last_commit": "2026-10-01T10:42:14Z",
+            "open_issues": 187,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3505,
+            "stars": 3506,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -37,7 +37,7 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-09-27T06:17:09Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "armory3d",
             "repo": "armory",
             "stars": 3342,
@@ -64,7 +64,7 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-08-23T21:22:28Z",
-            "open_issues": 306,
+            "open_issues": 305,
             "owner": "HaxeFlixel",
             "repo": "flixel",
             "stars": 2213,
@@ -94,7 +94,7 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-09-29T23:11:18Z",
-            "open_issues": 341,
+            "open_issues": 342,
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2158,
@@ -355,7 +355,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-28T21:49:17Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "openfl",
             "repo": "lime",
             "stars": 852,
@@ -718,7 +718,7 @@
             "open_issues": 58,
             "owner": "ncannasse",
             "repo": "castle",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:31:35.973Z",
+    "last_updated": "2026-10-01T10:59:10.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
