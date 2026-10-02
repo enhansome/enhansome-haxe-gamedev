@@ -23,10 +23,10 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,506 | 🐛 187 | 🌐 Haxe | 📅 2026-10-01 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,342 | 🐛 398 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,213 | 🐛 305 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,158 | 🐛 342 | 🌐 Haxe | 📅 2026-09-29 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,506 | 🐛 187 | 🌐 Haxe | 📅 2026-10-02 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,343 | 🐛 398 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,211 | 🐛 305 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,158 | 🐛 342 | 🌐 Haxe | 📅 2026-10-01 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 429 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 354 | 🐛 30 | 🌐 Haxe | 📅 2026-09-21 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 270 | 🐛 17 | 🌐 Haxe | 📅 2026-09-03 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
@@ -68,7 +68,7 @@ MVC == Model View Controller
 ## Networking
 
 * [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) ⭐ 94 | 🐛 14 | 🌐 Haxe | 📅 2025-05-11 - Websockets for all platforms.
-* [colyseus-hx](https://github.com/colyseus/colyseus-hx) ⭐ 90 | 🐛 2 | 🌐 Haxe | 📅 2026-09-29 - Multiplayer Game Client.
+* [colyseus-hx](https://github.com/colyseus/colyseus-hx) ⭐ 90 | 🐛 2 | 🌐 Haxe | 📅 2026-10-02 - Multiplayer Game Client.
 * [Anette](https://github.com/Dvergar/Anette) ⭐ 36 | 🐛 3 | 🌐 Haxe | 📅 2019-11-18 - Simple network library (no UDP).
 * [haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) ⭐ 4 | 🐛 0 | 🌐 Haxe | 📅 2019-01-31 - Haxe externs for simple-peer.
 * Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
