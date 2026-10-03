@@ -23,7 +23,7 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,506 | 🐛 187 | 🌐 Haxe | 📅 2026-10-02 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,506 | 🐛 188 | 🌐 Haxe | 📅 2026-10-02 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,344 | 🐛 398 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,211 | 🐛 305 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,158 | 🐛 342 | 🌐 Haxe | 📅 2026-10-01 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
