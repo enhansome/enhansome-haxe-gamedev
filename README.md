@@ -23,8 +23,8 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,507 | 🐛 188 | 🌐 Haxe | 📅 2026-10-04 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,346 | 🐛 398 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,507 | 🐛 188 | 🌐 Haxe | 📅 2026-10-05 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,348 | 🐛 398 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,212 | 🐛 305 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,159 | 🐛 342 | 🌐 Haxe | 📅 2026-10-01 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 430 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
@@ -75,7 +75,7 @@ MVC == Model View Controller
 
 ## Serialization and storage
 
-* [CastleDB](https://github.com/ncannasse/castle) ⭐ 611 | 🐛 58 | 🌐 Haxe | 📅 2026-09-22 - A structured static database easing collaboration.
+* [CastleDB](https://github.com/ncannasse/castle) ⭐ 611 | 🐛 57 | 🌐 Haxe | 📅 2026-10-05 - A structured static database easing collaboration.
 * [hxbit](https://github.com/ncannasse/hxbit) ⭐ 166 | 🐛 11 | 🌐 Haxe | 📅 2026-09-10 - A binary serialization and network synchronization library.
 * [Bits](https://github.com/RealyUniqueName/Bits) ⭐ 23 | 🐛 0 | 🌐 Haxe | 📅 2019-02-28 - Binary bit flags with unlimited amount of bits.
 * [PODStream](https://github.com/Dvergar/PODStream) ⭐ 21 | 🐛 0 | 🌐 Haxe | 📅 2019-11-01 - Plain Old Data serializer.
@@ -189,13 +189,13 @@ More showcase :
 
 ### Math helpers
 
-* [hxmath](https://github.com/tbrosman/hxmath) ⭐ 92 | 🐛 10 | 🌐 Haxe | 📅 2023-02-10 - A game-oriented math library.
+* [hxmath](https://github.com/tbrosman/hxmath) ⭐ 93 | 🐛 10 | 🌐 Haxe | 📅 2023-02-10 - A game-oriented math library.
 * [haxe-glm](https://github.com/hamaluik/haxe-glm) ⭐ 48 | 🐛 1 | 🌐 Haxe | 📅 2017-11-07 - A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.
 * [hx-vector2d](https://github.com/markknol/hx-vector2d) ⭐ 13 | 🐛 0 | 🌐 Haxe | 📅 2019-12-13 - Worlds most complete Vector2d / Point class. With operator overloading.
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 212 | 🐛 40 | 🌐 Haxe | 📅 2026-10-04 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 212 | 🐛 35 | 🌐 Haxe | 📅 2026-10-05 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

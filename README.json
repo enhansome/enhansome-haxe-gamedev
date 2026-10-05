@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-04T08:04:16Z",
+            "last_commit": "2026-10-05T10:27:58Z",
             "open_issues": 188,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -40,7 +40,7 @@
             "open_issues": 398,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3346,
+            "stars": 3348,
             "topics": [
               "3d",
               "blender",
@@ -714,8 +714,8 @@
             "id": 5912693,
             "language": "Haxe",
             "license": "ISC",
-            "last_commit": "2026-09-22T14:56:00Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-05T08:53:53Z",
+            "open_issues": 57,
             "owner": "ncannasse",
             "repo": "castle",
             "stars": 611,
@@ -1434,7 +1434,7 @@
                 "open_issues": 10,
                 "owner": "tbrosman",
                 "repo": "hxmath",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1504,8 +1504,8 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-10-04T07:00:56Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-05T03:10:12Z",
+                "open_issues": 35,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 212,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:36:34.574Z",
+    "last_updated": "2026-10-05T11:33:06.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
