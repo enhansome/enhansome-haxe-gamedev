@@ -23,16 +23,16 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,506 | 🐛 189 | 🌐 Haxe | 📅 2026-10-07 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,506 | 🐛 190 | 🌐 Haxe | 📅 2026-10-08 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,346 | 🐛 398 | 🌐 C++ | 📅 2026-09-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,212 | 🐛 305 | 🌐 Haxe | 📅 2026-08-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,158 | 🐛 342 | 🌐 Haxe | 📅 2026-10-01 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,159 | 🐛 341 | 🌐 Haxe | 📅 2026-10-01 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 430 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 354 | 🐛 30 | 🌐 Haxe | 📅 2026-09-21 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
-* [Starling](https://github.com/openfl/starling) ⭐ 267 | 🐛 17 | 🌐 Haxe | 📅 2026-09-03 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
+* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 354 | 🐛 31 | 🌐 Haxe | 📅 2026-09-21 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+* [Starling](https://github.com/openfl/starling) ⭐ 267 | 🐛 18 | 🌐 Haxe | 📅 2026-09-03 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
 * [hxdefold](https://github.com/hxdefold/hxdefold) ⭐ 233 | 🐛 9 | 🌐 Haxe | 📅 2025-11-17 - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
 * [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) ⚠️ Archived - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Away3D](https://github.com/openfl/away3d) ⭐ 227 | 🐛 27 | 🌐 Haxe | 📅 2026-10-05 - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+* [Away3D](https://github.com/openfl/away3d) ⭐ 227 | 🐛 28 | 🌐 Haxe | 📅 2026-10-05 - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
 * [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) ⭐ 216 | 🐛 7 | 🌐 Haxe | 📅 2026-09-04 - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
 * [Haxegon (OpenFL)](https://github.com/haxegon/haxegon) ⭐ 197 | 🐛 78 | 🌐 Haxe | 📅 2022-10-12 - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
 
@@ -68,7 +68,7 @@ MVC == Model View Controller
 ## Networking
 
 * [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) ⭐ 94 | 🐛 14 | 🌐 Haxe | 📅 2025-05-11 - Websockets for all platforms.
-* [colyseus-hx](https://github.com/colyseus/colyseus-hx) ⭐ 90 | 🐛 2 | 🌐 Haxe | 📅 2026-10-02 - Multiplayer Game Client.
+* [colyseus-hx](https://github.com/colyseus/colyseus-hx) ⭐ 90 | 🐛 2 | 🌐 Haxe | 📅 2026-10-07 - Multiplayer Game Client.
 * [Anette](https://github.com/Dvergar/Anette) ⭐ 36 | 🐛 3 | 🌐 Haxe | 📅 2019-11-18 - Simple network library (no UDP).
 * [haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) ⭐ 4 | 🐛 0 | 🌐 Haxe | 📅 2019-01-31 - Haxe externs for simple-peer.
 * Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 212 | 🐛 30 | 🌐 Haxe | 📅 2026-10-07 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 212 | 🐛 31 | 🌐 Haxe | 📅 2026-10-07 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
