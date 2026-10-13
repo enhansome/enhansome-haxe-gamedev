@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-10T12:12:20Z",
-            "open_issues": 192,
+            "last_commit": "2026-10-13T10:34:40Z",
+            "open_issues": 191,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3505,
+            "stars": 3506,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -97,7 +97,7 @@
             "open_issues": 336,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2162,
+            "stars": 2163,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -354,7 +354,7 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T23:49:13Z",
+            "last_commit": "2026-10-12T14:27:37Z",
             "open_issues": 216,
             "owner": "openfl",
             "repo": "lime",
@@ -880,7 +880,7 @@
                 "language": "Haxe",
                 "license": "MIT",
                 "last_commit": "2026-10-08T21:29:15Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "MAJigsaw77",
                 "repo": "hxgamejolt-api",
                 "stars": 24,
@@ -1504,8 +1504,8 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-10-12T00:15:26Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-13T08:38:04Z",
+                "open_issues": 38,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 213,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:04:03.236Z",
+    "last_updated": "2026-10-13T11:51:26.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
