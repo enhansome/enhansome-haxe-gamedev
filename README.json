@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-13T10:34:40Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-14T09:23:59Z",
+            "open_issues": 189,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3506,
+            "stars": 3507,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -67,7 +67,7 @@
             "open_issues": 307,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2215,
+            "stars": 2216,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -354,7 +354,7 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T14:27:37Z",
+            "last_commit": "2026-10-14T01:04:46Z",
             "open_issues": 216,
             "owner": "openfl",
             "repo": "lime",
@@ -880,7 +880,7 @@
                 "language": "Haxe",
                 "license": "MIT",
                 "last_commit": "2026-10-08T21:29:15Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "MAJigsaw77",
                 "repo": "hxgamejolt-api",
                 "stars": 24,
@@ -1504,8 +1504,8 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-10-13T08:38:04Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-13T23:36:04Z",
+                "open_issues": 33,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 213,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:51:26.936Z",
+    "last_updated": "2026-10-14T09:33:09.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
