@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-15T08:14:05Z",
-            "open_issues": 189,
+            "last_commit": "2026-10-15T13:44:52Z",
+            "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3507,
+            "stars": 3510,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -37,7 +37,7 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-10-10T19:54:52Z",
-            "open_issues": 399,
+            "open_issues": 400,
             "owner": "armory3d",
             "repo": "armory",
             "stars": 3350,
@@ -63,11 +63,11 @@
             "id": 2101031,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-08-23T21:22:28Z",
+            "last_commit": "2026-10-15T19:43:18Z",
             "open_issues": 306,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2216,
+            "stars": 2217,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -97,7 +97,7 @@
             "open_issues": 337,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2164,
+            "stars": 2165,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -150,7 +150,7 @@
             "id": 84566136,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:38:40Z",
+            "last_commit": "2026-10-15T13:28:17Z",
             "open_issues": 33,
             "owner": "ceramic-engine",
             "repo": "ceramic",
@@ -175,7 +175,7 @@
             "open_issues": 18,
             "owner": "openfl",
             "repo": "starling",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "gpu",
               "haxe",
@@ -300,7 +300,7 @@
             "open_issues": 78,
             "owner": "haxegon",
             "repo": "haxegon",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "framework",
               "game",
@@ -337,7 +337,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1639,
+            "stars": 1640,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -354,11 +354,11 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T06:04:11Z",
+            "last_commit": "2026-10-15T23:05:02Z",
             "open_issues": 216,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 853,
+            "stars": 854,
             "topics": [
               "cross-platform",
               "frontend",
@@ -812,7 +812,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1639,
+            "stars": 1640,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -862,7 +862,7 @@
                 "open_issues": 16,
                 "owner": "larsiusprime",
                 "repo": "SteamWrap",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1505,7 +1505,7 @@
                 "language": "Haxe",
                 "license": "MIT",
                 "last_commit": "2026-10-14T22:22:28Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 213,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:10:57.440Z",
+    "last_updated": "2026-10-16T09:04:03.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
@@ -2008,7 +2008,7 @@
       "open_issues": 0,
       "owner": "Dvergar",
       "repo": "awesome-haxe-gamedev",
-      "stars": 420,
+      "stars": 421,
       "topics": [
         "awesome",
         "awesome-list",
