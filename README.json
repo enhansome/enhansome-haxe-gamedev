@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-15T13:44:52Z",
+            "last_commit": "2026-10-16T09:24:14Z",
             "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3510,
+            "stars": 3509,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -37,10 +37,10 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-10-10T19:54:52Z",
-            "open_issues": 400,
+            "open_issues": 402,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3350,
+            "stars": 3351,
             "topics": [
               "3d",
               "blender",
@@ -93,7 +93,7 @@
             "id": 8869463,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-11T22:44:16Z",
+            "last_commit": "2026-10-16T21:14:18Z",
             "open_issues": 337,
             "owner": "openfl",
             "repo": "openfl",
@@ -354,8 +354,8 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T23:05:02Z",
-            "open_issues": 216,
+            "last_commit": "2026-10-16T22:24:48Z",
+            "open_issues": 217,
             "owner": "openfl",
             "repo": "lime",
             "stars": 854,
@@ -718,7 +718,7 @@
             "open_issues": 57,
             "owner": "ncannasse",
             "repo": "castle",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:04:03.295Z",
+    "last_updated": "2026-10-17T08:36:28.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
