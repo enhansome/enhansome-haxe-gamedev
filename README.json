@@ -97,7 +97,7 @@
             "open_issues": 337,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2165,
+            "stars": 2167,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:36:28.160Z",
+    "last_updated": "2026-10-18T08:53:02.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
