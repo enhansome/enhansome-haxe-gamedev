@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-16T09:24:14Z",
+            "last_commit": "2026-10-19T06:28:57Z",
             "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3509,
+            "stars": 3510,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -36,11 +36,11 @@
             "id": 45202654,
             "language": "C++",
             "license": "Zlib",
-            "last_commit": "2026-10-10T19:54:52Z",
-            "open_issues": 402,
+            "last_commit": "2026-10-18T18:06:26Z",
+            "open_issues": 398,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3351,
+            "stars": 3352,
             "topics": [
               "3d",
               "blender",
@@ -97,7 +97,7 @@
             "open_issues": 337,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -1504,8 +1504,8 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-10-14T22:22:28Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-18T22:06:32Z",
+                "open_issues": 29,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 213,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:53:02.288Z",
+    "last_updated": "2026-10-19T09:57:40.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
