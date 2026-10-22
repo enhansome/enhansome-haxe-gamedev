@@ -23,12 +23,12 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,510 | 🐛 190 | 🌐 Haxe | 📅 2026-10-20 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,353 | 🐛 399 | 🌐 C++ | 📅 2026-10-18 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,509 | 🐛 190 | 🌐 Haxe | 📅 2026-10-22 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,354 | 🐛 399 | 🌐 C++ | 📅 2026-10-18 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,215 | 🐛 306 | 🌐 Haxe | 📅 2026-10-15 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,170 | 🐛 337 | 🌐 Haxe | 📅 2026-10-16 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,171 | 🐛 337 | 🌐 Haxe | 📅 2026-10-16 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 430 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 354 | 🐛 33 | 🌐 Haxe | 📅 2026-10-20 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+* [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 354 | 🐛 33 | 🌐 Haxe | 📅 2026-10-22 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 267 | 🐛 18 | 🌐 Haxe | 📅 2026-10-11 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
 * [hxdefold](https://github.com/hxdefold/hxdefold) ⭐ 233 | 🐛 9 | 🌐 Haxe | 📅 2025-11-17 - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
 * [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) ⚠️ Archived - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
@@ -39,7 +39,7 @@ Those are Haxe 4 compatible game engines
 ## Low-level Engine
 
 * [Kha](https://github.com/Kode/Kha) ⭐ 1,640 | 🐛 145 | 🌐 C | 📅 2026-09-22 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Lime](https://github.com/openfl/lime) ⭐ 854 | 🐛 216 | 🌐 JavaScript | 📅 2026-10-20 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
+* [Lime](https://github.com/openfl/lime) ⭐ 855 | 🐛 217 | 🌐 JavaScript | 📅 2026-10-21 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
 * [NME](https://github.com/haxenme/nme) ⭐ 497 | 🐛 44 | 🌐 C | 📅 2026-09-16 - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
 * [linc\_glfw](https://github.com/Sunjammer/linc_glfw) ⭐ 18 | 🐛 0 | 🌐 C | 📅 2019-09-16 - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
 * [3DSHaxe](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
@@ -76,7 +76,7 @@ MVC == Model View Controller
 ## Serialization and storage
 
 * [CastleDB](https://github.com/ncannasse/castle) ⭐ 611 | 🐛 57 | 🌐 Haxe | 📅 2026-10-20 - A structured static database easing collaboration.
-* [hxbit](https://github.com/ncannasse/hxbit) ⭐ 166 | 🐛 11 | 🌐 Haxe | 📅 2026-10-20 - A binary serialization and network synchronization library.
+* [hxbit](https://github.com/ncannasse/hxbit) ⭐ 166 | 🐛 11 | 🌐 Haxe | 📅 2026-10-22 - A binary serialization and network synchronization library.
 * [Bits](https://github.com/RealyUniqueName/Bits) ⭐ 23 | 🐛 0 | 🌐 Haxe | 📅 2019-02-28 - Binary bit flags with unlimited amount of bits.
 * [PODStream](https://github.com/Dvergar/PODStream) ⭐ 21 | 🐛 0 | 🌐 Haxe | 📅 2019-11-01 - Plain Old Data serializer.
 
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 213 | 🐛 32 | 🌐 Haxe | 📅 2026-10-18 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 213 | 🐛 32 | 🌐 Haxe | 📅 2026-10-21 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -236,7 +236,7 @@ More showcase :
 ### UI
 
 * [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) ⭐ 201 | 🐛 55 | 🌐 Haxe | 📅 2026-07-14 - GUI library for HaxeFlixel.
-* [domkit](https://github.com/ncannasse/domkit) ⭐ 94 | 🐛 13 | 🌐 Haxe | 📅 2026-10-20 - CSS Components based strictly typed UI framework.
+* [domkit](https://github.com/ncannasse/domkit) ⭐ 94 | 🐛 13 | 🌐 Haxe | 📅 2026-10-22 - CSS Components based strictly typed UI framework.
 * [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
 * [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
