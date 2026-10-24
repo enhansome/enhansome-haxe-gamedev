@@ -23,8 +23,8 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,509 | 🐛 190 | 🌐 Haxe | 📅 2026-10-23 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,355 | 🐛 399 | 🌐 C++ | 📅 2026-10-18 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,511 | 🐛 190 | 🌐 Haxe | 📅 2026-10-24 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,355 | 🐛 400 | 🌐 C++ | 📅 2026-10-18 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,215 | 🐛 307 | 🌐 Haxe | 📅 2026-10-15 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,172 | 🐛 337 | 🌐 Haxe | 📅 2026-10-16 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 430 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
@@ -75,8 +75,8 @@ MVC == Model View Controller
 
 ## Serialization and storage
 
-* [CastleDB](https://github.com/ncannasse/castle) ⭐ 611 | 🐛 57 | 🌐 Haxe | 📅 2026-10-20 - A structured static database easing collaboration.
-* [hxbit](https://github.com/ncannasse/hxbit) ⭐ 166 | 🐛 11 | 🌐 Haxe | 📅 2026-10-22 - A binary serialization and network synchronization library.
+* [CastleDB](https://github.com/ncannasse/castle) ⭐ 611 | 🐛 57 | 🌐 Haxe | 📅 2026-10-24 - A structured static database easing collaboration.
+* [hxbit](https://github.com/ncannasse/hxbit) ⭐ 166 | 🐛 11 | 🌐 Haxe | 📅 2026-10-24 - A binary serialization and network synchronization library.
 * [Bits](https://github.com/RealyUniqueName/Bits) ⭐ 23 | 🐛 0 | 🌐 Haxe | 📅 2019-02-28 - Binary bit flags with unlimited amount of bits.
 * [PODStream](https://github.com/Dvergar/PODStream) ⭐ 21 | 🐛 0 | 🌐 Haxe | 📅 2019-11-01 - Plain Old Data serializer.
 
@@ -157,7 +157,7 @@ More showcase :
 
 ### Computer Vision
 
-* [Vision](https://github.com/ShaharMS/Vision) ⭐ 35 | 🐛 6 | 🌐 Haxe | 📅 2026-09-09 - Cross platform computer vision library.
+* [Vision](https://github.com/ShaharMS/Vision) ⭐ 35 | 🐛 7 | 🌐 Haxe | 📅 2026-10-23 - Cross platform computer vision library.
 
 ### Data structures
 
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 33 | 🌐 Haxe | 📅 2026-10-21 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 29 | 🌐 Haxe | 📅 2026-10-23 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -236,7 +236,7 @@ More showcase :
 ### UI
 
 * [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) ⭐ 201 | 🐛 55 | 🌐 Haxe | 📅 2026-07-14 - GUI library for HaxeFlixel.
-* [domkit](https://github.com/ncannasse/domkit) ⭐ 94 | 🐛 13 | 🌐 Haxe | 📅 2026-10-23 - CSS Components based strictly typed UI framework.
+* [domkit](https://github.com/ncannasse/domkit) ⭐ 94 | 🐛 13 | 🌐 Haxe | 📅 2026-10-24 - CSS Components based strictly typed UI framework.
 * [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
 * [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
