@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-25T07:02:56Z",
+            "last_commit": "2026-10-26T09:02:12Z",
             "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -67,7 +67,7 @@
             "open_issues": 307,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2216,
+            "stars": 2217,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -1504,7 +1504,7 @@
                 "id": 145896674,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-10-23T22:02:54Z",
+                "last_commit": "2026-10-26T00:29:05Z",
                 "open_issues": 29,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:11:16.134Z",
+    "last_updated": "2026-10-26T10:11:21.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",

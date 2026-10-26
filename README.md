@@ -23,9 +23,9 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,511 | 🐛 190 | 🌐 Haxe | 📅 2026-10-25 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,511 | 🐛 190 | 🌐 Haxe | 📅 2026-10-26 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,357 | 🐛 399 | 🌐 C++ | 📅 2026-10-24 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,216 | 🐛 307 | 🌐 Haxe | 📅 2026-10-15 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,217 | 🐛 307 | 🌐 Haxe | 📅 2026-10-15 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [OpenFL](https://github.com/openfl/openfl) ⭐ 2,172 | 🐛 337 | 🌐 Haxe | 📅 2026-10-16 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 430 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 354 | 🐛 32 | 🌐 Haxe | 📅 2026-10-24 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
@@ -195,7 +195,7 @@ More showcase :
 
 ### Modding
 
-* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 29 | 🌐 Haxe | 📅 2026-10-23 - An atomic modding framework for games/apps.
+* [polymod](https://github.com/larsiusprime/polymod) ⭐ 209 | 🐛 29 | 🌐 Haxe | 📅 2026-10-26 - An atomic modding framework for games/apps.
 
 ### Particles
 
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
