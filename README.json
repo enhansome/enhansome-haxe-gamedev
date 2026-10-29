@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-27T13:06:56Z",
+            "last_commit": "2026-10-29T10:21:54Z",
             "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3512,
+            "stars": 3513,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -36,8 +36,8 @@
             "id": 45202654,
             "language": "C++",
             "license": "Zlib",
-            "last_commit": "2026-10-24T17:53:51Z",
-            "open_issues": 402,
+            "last_commit": "2026-10-28T19:27:16Z",
+            "open_issues": 399,
             "owner": "armory3d",
             "repo": "armory",
             "stars": 3360,
@@ -67,7 +67,7 @@
             "open_issues": 307,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2220,
+            "stars": 2221,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -354,7 +354,7 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T10:11:42Z",
+            "last_commit": "2026-10-29T06:45:28Z",
             "open_issues": 218,
             "owner": "openfl",
             "repo": "lime",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:37:07.616Z",
+    "last_updated": "2026-10-29T10:55:15.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
