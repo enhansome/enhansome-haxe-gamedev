@@ -19,7 +19,7 @@
             "open_issues": 191,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3515,
+            "stars": 3517,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -37,7 +37,7 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-10-30T22:23:12Z",
-            "open_issues": 399,
+            "open_issues": 400,
             "owner": "armory3d",
             "repo": "armory",
             "stars": 3362,
@@ -97,7 +97,7 @@
             "open_issues": 340,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2174,
+            "stars": 2175,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -150,7 +150,7 @@
             "id": 84566136,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:13:47Z",
+            "last_commit": "2026-10-31T18:14:58Z",
             "open_issues": 32,
             "owner": "ceramic-engine",
             "repo": "ceramic",
@@ -354,7 +354,7 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T02:56:45Z",
+            "last_commit": "2026-11-01T09:30:11Z",
             "open_issues": 217,
             "owner": "openfl",
             "repo": "lime",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:25:31.127Z",
+    "last_updated": "2026-11-01T11:18:14.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
