@@ -15,7 +15,7 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-05T10:00:15Z",
+            "last_commit": "2026-11-05T15:14:21Z",
             "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
@@ -63,11 +63,11 @@
             "id": 2101031,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-04T22:43:02Z",
-            "open_issues": 303,
+            "last_commit": "2026-11-05T18:22:59Z",
+            "open_issues": 301,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2237,
+            "stars": 2238,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -94,10 +94,10 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-11-03T19:34:03Z",
-            "open_issues": 344,
+            "open_issues": 357,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2175,
+            "stars": 2174,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -154,7 +154,7 @@
             "open_issues": 32,
             "owner": "ceramic-engine",
             "repo": "ceramic",
-            "stars": 354,
+            "stars": 355,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -354,8 +354,8 @@
             "id": 10876724,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T02:59:00Z",
-            "open_issues": 211,
+            "last_commit": "2026-11-05T18:57:26Z",
+            "open_issues": 212,
             "owner": "openfl",
             "repo": "lime",
             "stars": 856,
@@ -718,7 +718,7 @@
             "open_issues": 57,
             "owner": "ncannasse",
             "repo": "castle",
-            "stars": 611,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1298,7 +1298,7 @@
                 "id": 208818495,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-10-20T13:31:21Z",
+                "last_commit": "2026-11-05T18:23:57Z",
                 "open_issues": 4,
                 "owner": "deepnight",
                 "repo": "deepnightLibs",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:25:32.573Z",
+    "last_updated": "2026-11-06T12:10:12.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
