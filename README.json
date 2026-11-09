@@ -15,8 +15,8 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-06T14:05:07Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-09T11:22:41Z",
+            "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
             "stars": 3518,
@@ -40,7 +40,7 @@
             "open_issues": 399,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3364,
+            "stars": 3365,
             "topics": [
               "3d",
               "blender",
@@ -63,11 +63,11 @@
             "id": 2101031,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-06T17:06:27Z",
+            "last_commit": "2026-11-09T04:54:24Z",
             "open_issues": 302,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2238,
+            "stars": 2244,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -94,10 +94,10 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-11-06T17:17:57Z",
-            "open_issues": 353,
+            "open_issues": 354,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2176,
+            "stars": 2177,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -150,11 +150,11 @@
             "id": 84566136,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-08T00:44:18Z",
+            "last_commit": "2026-11-09T09:27:46Z",
             "open_issues": 32,
             "owner": "ceramic-engine",
             "repo": "ceramic",
-            "stars": 356,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -354,8 +354,8 @@
             "id": 10876724,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-08T07:35:06Z",
-            "open_issues": 207,
+            "last_commit": "2026-11-09T06:11:58Z",
+            "open_issues": 208,
             "owner": "openfl",
             "repo": "lime",
             "stars": 856,
@@ -1330,7 +1330,7 @@
                 "open_issues": 12,
                 "owner": "larsiusprime",
                 "repo": "firetongue",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:19:08.429Z",
+    "last_updated": "2026-11-09T12:56:14.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
