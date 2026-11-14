@@ -16,7 +16,7 @@
             "language": "Haxe",
             "license": "MIT",
             "last_commit": "2026-11-13T11:22:01Z",
-            "open_issues": 190,
+            "open_issues": 191,
             "owner": "HeapsIO",
             "repo": "heaps",
             "stars": 3518,
@@ -97,7 +97,7 @@
             "open_issues": 351,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2178,
+            "stars": 2179,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -337,7 +337,7 @@
             "open_issues": 143,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1644,
+            "stars": 1645,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -354,8 +354,8 @@
             "id": 10876724,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-13T11:40:47Z",
-            "open_issues": 291,
+            "last_commit": "2026-11-13T20:55:06Z",
+            "open_issues": 299,
             "owner": "openfl",
             "repo": "lime",
             "stars": 857,
@@ -812,7 +812,7 @@
             "open_issues": 143,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1644,
+            "stars": 1645,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1174,7 +1174,7 @@
                 "id": 515292306,
                 "language": "Haxe",
                 "license": "MIT",
-                "last_commit": "2026-11-13T02:25:42Z",
+                "last_commit": "2026-11-13T20:46:55Z",
                 "open_issues": 6,
                 "owner": "ShaharMS",
                 "repo": "Vision",
@@ -1894,7 +1894,7 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2024-05-11T09:14:55Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "polybiusproxy",
                 "repo": "hxCodec",
                 "stars": 113,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:16:33.135Z",
+    "last_updated": "2026-11-14T11:32:33.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
