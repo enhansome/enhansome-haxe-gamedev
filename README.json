@@ -19,7 +19,7 @@
             "open_issues": 191,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3518,
+            "stars": 3517,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -40,7 +40,7 @@
             "open_issues": 400,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3366,
+            "stars": 3372,
             "topics": [
               "3d",
               "blender",
@@ -67,7 +67,7 @@
             "open_issues": 301,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2244,
+            "stars": 2243,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -97,7 +97,7 @@
             "open_issues": 351,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2179,
+            "stars": 2178,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -150,11 +150,11 @@
             "id": 84566136,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-12T22:39:00Z",
+            "last_commit": "2026-11-14T21:14:43Z",
             "open_issues": 32,
             "owner": "ceramic-engine",
             "repo": "ceramic",
-            "stars": 357,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -358,7 +358,7 @@
             "open_issues": 299,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 857,
+            "stars": 856,
             "topics": [
               "cross-platform",
               "frontend",
@@ -1505,7 +1505,7 @@
                 "language": "Haxe",
                 "license": "MIT",
                 "last_commit": "2026-11-13T12:11:33Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "FunkinCrew",
                 "repo": "polymod",
                 "stars": 212,
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:32:33.700Z",
+    "last_updated": "2026-11-15T11:59:01.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
