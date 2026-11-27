@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-26T13:42:52Z",
+            "last_commit": "2026-11-27T10:41:23Z",
             "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3513,
+            "stars": 3514,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -93,8 +93,8 @@
             "id": 8869463,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:17:41Z",
-            "open_issues": 346,
+            "last_commit": "2026-11-26T15:41:31Z",
+            "open_issues": 349,
             "owner": "openfl",
             "repo": "openfl",
             "stars": 2179,
@@ -354,11 +354,11 @@
             "id": 10876724,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-26T12:06:11Z",
-            "open_issues": 248,
+            "last_commit": "2026-11-27T02:46:52Z",
+            "open_issues": 173,
             "owner": "openfl",
             "repo": "lime",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "cross-platform",
               "frontend",
@@ -386,7 +386,7 @@
             "id": 5051566,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-26T09:42:41Z",
+            "last_commit": "2026-11-27T08:21:25Z",
             "open_issues": 44,
             "owner": "haxenme",
             "repo": "nme",
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:57:10.171Z",
+    "last_updated": "2026-11-27T13:55:46.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
