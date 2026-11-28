@@ -23,23 +23,23 @@ Feel free to update it.
 
 Those are Haxe 4 compatible game engines
 
-* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,514 | 🐛 190 | 🌐 Haxe | 📅 2026-11-27 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,374 | 🐛 398 | 🌐 C++ | 📅 2026-11-08 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,242 | 🐛 299 | 🌐 Haxe | 📅 2026-11-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,179 | 🐛 349 | 🌐 Haxe | 📅 2026-11-26 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,513 | 🐛 190 | 🌐 Haxe | 📅 2026-11-27 - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) ⭐ 3,373 | 🐛 397 | 🌐 C++ | 📅 2026-11-27 - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) ⭐ 2,241 | 🐛 299 | 🌐 Haxe | 📅 2026-11-23 - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [OpenFL](https://github.com/openfl/openfl) ⭐ 2,180 | 🐛 348 | 🌐 Haxe | 📅 2026-11-28 - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [unreal.hx](https://github.com/proletariatgames/unreal.hx) ⭐ 430 | 🐛 46 | 🌐 Haxe | 📅 2023-01-10 - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) ⭐ 357 | 🐛 32 | 🌐 Haxe | 📅 2026-11-25 - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [Starling](https://github.com/openfl/starling) ⭐ 269 | 🐛 18 | 🌐 Haxe | 📅 2026-10-11 - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
-* [hxdefold](https://github.com/hxdefold/hxdefold) ⭐ 233 | 🐛 9 | 🌐 Haxe | 📅 2025-11-17 - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
 * [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) ⚠️ Archived - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Away3D](https://github.com/openfl/away3d) ⭐ 231 | 🐛 28 | 🌐 Haxe | 📅 2026-10-05 - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+* [Away3D](https://github.com/openfl/away3d) ⭐ 232 | 🐛 28 | 🌐 Haxe | 📅 2026-10-05 - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+* [hxdefold](https://github.com/hxdefold/hxdefold) ⭐ 231 | 🐛 9 | 🌐 Haxe | 📅 2025-11-17 - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
 * [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) ⭐ 216 | 🐛 7 | 🌐 Haxe | 📅 2026-10-20 - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
 * [Haxegon (OpenFL)](https://github.com/haxegon/haxegon) ⭐ 197 | 🐛 78 | 🌐 Haxe | 📅 2022-10-12 - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
 
 ## Low-level Engine
 
-* [Kha](https://github.com/Kode/Kha) ⭐ 1,644 | 🐛 145 | 🌐 C | 📅 2026-11-12 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-* [Lime](https://github.com/openfl/lime) ⭐ 860 | 🐛 173 | 🌐 Haxe | 📅 2026-11-27 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
+* [Kha](https://github.com/Kode/Kha) ⭐ 1,643 | 🐛 145 | 🌐 C | 📅 2026-11-12 - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Lime](https://github.com/openfl/lime) ⭐ 860 | 🐛 79 | 🌐 Haxe | 📅 2026-11-28 - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
 * [NME](https://github.com/haxenme/nme) ⭐ 497 | 🐛 44 | 🌐 C | 📅 2026-11-27 - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
 * [linc\_glfw](https://github.com/Sunjammer/linc_glfw) ⭐ 18 | 🐛 0 | 🌐 C | 📅 2019-09-16 - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
 * [3DSHaxe](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
@@ -48,7 +48,7 @@ Those are Haxe 4 compatible game engines
 
 * [echo](https://github.com/AustinEast/echo/) ⭐ 154 | 🐛 8 | 🌐 Haxe | 📅 2026-09-22 - Simple Physics Library.
 * [haxebullet](https://github.com/armory3d/haxebullet) ⚠️ Archived - Bullet 3D Physics.
-* [nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4) ⭐ 52 | 🐛 0 | 🌐 Haxe | 📅 2020-06-30 - Physics Engine (the original Haxe3 version of nape can be found [here](https://github.com/deltaluca/nape) ⭐ 552 | 🐛 16 | 🌐 Haxe | 📅 2018-09-09).
+* [nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4) ⭐ 52 | 🐛 0 | 🌐 Haxe | 📅 2020-06-30 - Physics Engine (the original Haxe3 version of nape can be found [here](https://github.com/deltaluca/nape) ⭐ 551 | 🐛 16 | 🌐 Haxe | 📅 2018-09-09).
 
 ## Architecture
 
@@ -60,7 +60,7 @@ FSM == Finite State Machine
 MVC == Model View Controller
 ```
 
-* [awe6](https://github.com/hypersurge/awe6) ⭐ 80 | 🐛 1 | 🌐 Haxe | 📅 2024-10-30 - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
+* [awe6](https://github.com/hypersurge/awe6) ⭐ 79 | 🐛 1 | 🌐 Haxe | 📅 2024-10-30 - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
 * [ecx](https://github.com/eliasku/ecx) ⚠️ Archived - `ECS` - An Entity Component System framework.
 * [OSIS](https://github.com/Dvergar/OSIS) ⭐ 46 | 🐛 1 | 🌐 Haxe | 📅 2019-11-17 - `ECS` - Entity Component System architecture with networking support.
 * [hexMachina](https://github.com/DoclerLabs/hexCore) ⭐ 6 | 🐛 1 | 🌐 Haxe | 📅 2024-05-03 - `MVC` - A powerful multi-modular MVC framework.
@@ -113,8 +113,8 @@ MVC == Model View Controller
 
 More showcase :
 
-* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,644 | 🐛 145 | 🌐 C | 📅 2026-11-12
-* [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) ⭐ 749 | 🐛 119 | 🌐 Haxe | 📅 2021-04-16
+* [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha) ⭐ 1,643 | 🐛 145 | 🌐 C | 📅 2026-11-12
+* [Flambe showcase](https://github.com/aduros/flambe/wiki/Showcase) ⭐ 747 | 🐛 119 | 🌐 Haxe | 📅 2021-04-16
 * [OpenFL showcase](https://www.openfl.org/showcase)
 * [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
 * [itch.io showcase](https://itch.io/games/made-with-haxe)
@@ -260,4 +260,4 @@ More showcase :
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

@@ -15,11 +15,11 @@
             "id": 5947834,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-27T10:41:23Z",
+            "last_commit": "2026-11-27T16:04:18Z",
             "open_issues": 190,
             "owner": "HeapsIO",
             "repo": "heaps",
-            "stars": 3514,
+            "stars": 3513,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -36,11 +36,11 @@
             "id": 45202654,
             "language": "C++",
             "license": "Zlib",
-            "last_commit": "2026-11-08T08:42:41Z",
-            "open_issues": 398,
+            "last_commit": "2026-11-27T16:19:58Z",
+            "open_issues": 397,
             "owner": "armory3d",
             "repo": "armory",
-            "stars": 3374,
+            "stars": 3373,
             "topics": [
               "3d",
               "blender",
@@ -67,7 +67,7 @@
             "open_issues": 299,
             "owner": "HaxeFlixel",
             "repo": "flixel",
-            "stars": 2242,
+            "stars": 2241,
             "topics": [
               "2d-game-engine",
               "cross-platform",
@@ -93,11 +93,11 @@
             "id": 8869463,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-26T15:41:31Z",
-            "open_issues": 349,
+            "last_commit": "2026-11-28T02:35:34Z",
+            "open_issues": 348,
             "owner": "openfl",
             "repo": "openfl",
-            "stars": 2179,
+            "stars": 2180,
             "topics": [
               "adobe-air",
               "adobe-flash",
@@ -188,32 +188,6 @@
         },
         {
           "node_type": "item",
-          "title": "hxdefold",
-          "description": "Haxe/Lua externs for Defold game engine (, , ).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Haxe/Lua externs for Defold game engine",
-            "homepage": null,
-            "id": 60483806,
-            "language": "Haxe",
-            "license": "MIT",
-            "last_commit": "2025-11-17T13:31:03Z",
-            "open_issues": 9,
-            "owner": "hxdefold",
-            "repo": "hxdefold",
-            "stars": 233,
-            "topics": [
-              "defold-game-engine",
-              "haxe",
-              "lua",
-              "lua-externs"
-            ]
-          },
-          "first_seen": "2026-08-28T16:41:16.981Z"
-        },
-        {
-          "node_type": "item",
           "title": "HxGodot (Godot 4.0)",
           "description": "A Haxe GDExtension for Godot 4 (, , , ).",
           "children": [],
@@ -249,12 +223,38 @@
             "open_issues": 28,
             "owner": "openfl",
             "repo": "away3d",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "3d-engine",
               "away3d",
               "haxe",
               "openfl"
+            ]
+          },
+          "first_seen": "2026-08-28T16:41:16.981Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hxdefold",
+          "description": "Haxe/Lua externs for Defold game engine (, , ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Haxe/Lua externs for Defold game engine",
+            "homepage": null,
+            "id": 60483806,
+            "language": "Haxe",
+            "license": "MIT",
+            "last_commit": "2025-11-17T13:31:03Z",
+            "open_issues": 9,
+            "owner": "hxdefold",
+            "repo": "hxdefold",
+            "stars": 231,
+            "topics": [
+              "defold-game-engine",
+              "haxe",
+              "lua",
+              "lua-externs"
             ]
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -337,7 +337,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1644,
+            "stars": 1643,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -354,8 +354,8 @@
             "id": 10876724,
             "language": "Haxe",
             "license": "MIT",
-            "last_commit": "2026-11-27T02:46:52Z",
-            "open_issues": 173,
+            "last_commit": "2026-11-28T11:51:22Z",
+            "open_issues": 79,
             "owner": "openfl",
             "repo": "lime",
             "stars": 860,
@@ -513,7 +513,7 @@
             "open_issues": 1,
             "owner": "hypersurge",
             "repo": "awe6",
-            "stars": 80,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -812,7 +812,7 @@
             "open_issues": 145,
             "owner": "Kode",
             "repo": "Kha",
-            "stars": 1644,
+            "stars": 1643,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -833,7 +833,7 @@
             "open_issues": 119,
             "owner": "aduros",
             "repo": "flambe",
-            "stars": 749,
+            "stars": 747,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:16.981Z"
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:55:46.178Z",
+    "last_updated": "2026-11-28T13:05:54.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for game development on haxe",
@@ -2008,7 +2008,7 @@
       "open_issues": 0,
       "owner": "Dvergar",
       "repo": "awesome-haxe-gamedev",
-      "stars": 421,
+      "stars": 419,
       "topics": [
         "awesome",
         "awesome-list",
